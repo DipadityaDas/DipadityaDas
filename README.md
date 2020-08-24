@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dipaditya Das</h1>
-<h3 align="center">A passionate Developer from India</h3>
+<h1 align="center">Hi, I'm Dipaditya Das <img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/wave.gif" width="40px"></h1>
+<h3 align="center">A Passionate Engineering and Developer from India</h3>
 
 <p align="center">
 <a href="https://codepen.io/dipadityadas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dipadityadas" height="30" width="30" /></a>
@@ -31,7 +31,9 @@
 
 ### Languages and Tools
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python3" width="32" height="32"/>
+<!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
@@ -81,7 +83,8 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></p>
+<img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> -->
+</p>
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipadityadas&hide=html,css&card_width=275" alt="dipadityadas" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipadityadas&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=45,EA68AA,8F65BB" alt="dipadityadas" />
