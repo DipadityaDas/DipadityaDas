@@ -1,19 +1,17 @@
-<h1 align="center">Hi, I'm Dipaditya Das <img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/wave.gif" width="40px"></h1>
+<h1 align="center">Hi <img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/wave.gif" width="30"> I'm Dipaditya Das.</h1>
 <h3 align="center">A Passionate Engineering and Developer from India</h3>
 
 <p align="center">
-<a href="https://codepen.io/dipadityadas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="dipadityadas" height="30" width="30" /></a>
-<a href="https://dev.to/dipadityadas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dipadityadas" height="30" width="30" /></a>
-<a href="https://twitter.com/@dipadityadas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@dipadityadas" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/dipaditya-das-97721b197" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dipaditya-das-97721b197" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/14142490/dipaditya-das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="19343463" height="30" width="30" /></a>
-<a href="https://kaggle.com/dipadityadas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dipadityadas" height="30" width="30" /></a>
-<a href="https://fb.com/dipaditya.das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dipaditya.das" height="30" width="30" /></a>
-<a href="https://instagram.com/dipaditya_das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dipaditya_das" height="30" width="30" /></a>
-<a href="https://medium.com/@dipadityadas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dipadityadas" height="30" width="30" /></a>
+<a href="https://codepen.io/dipadityadas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="CodePen" height="25"/></a>&nbsp;
+<a href="https://kaggle.com/dipadityadas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Kaggle" height="25"/></a>&nbsp;
+<a href="https://fb.com/dipaditya.das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="25"/></a>&nbsp;
+<a href="https://linkedin.com/in/DipadityaDas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="25"/></a>&nbsp;
+<a href="https://dev.to/dipadityadas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="30"/></a>&nbsp;
+<a href="https://medium.com/@dipadityadas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="25"/></a>&nbsp;
+<a href="https://instagram.com/dipaditya_das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="25"/></a>&nbsp;
+<a href="https://twitter.com/@dipadityadas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="25"/></a>&nbsp;
+<a href="https://stackoverflow.com/users/14142490/dipaditya-das" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stackoverflow" height="25"/></a>
 </p>
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipadityadas" alt="dipadityadas" /> </p> -->
 
 - 🔭 I’m currently working on **JARVIS Assistant**
 - 🌱 I’m currently learning **Flutter, Ansible(RH294) and Advanced Python**
@@ -29,10 +27,10 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-### Languages and Tools
+### ⚡ Languages and Tools ⚡
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python3" width="32" height="32"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python3" height="32"/>
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
@@ -88,5 +86,4 @@
 
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipadityadas&hide=html,css&card_width=275" alt="dipadityadas" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipadityadas&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=45,EA68AA,8F65BB" alt="dipadityadas" />
-
 </p>
