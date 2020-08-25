@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/wave.gif" width="30"> I'm Dipaditya Das.</h1>
+<h1 align="center">Hi <img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/wave.gif" width="40"> I'm Dipaditya Das.</h1>
 <h3 align="center">A Passionate Engineering and Developer from India</h3>
 
 <p align="center">
