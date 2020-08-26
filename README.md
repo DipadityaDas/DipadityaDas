@@ -72,5 +72,5 @@
 
 <p  align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipadityadas&hide=html,css&card_width=275"  alt="dipadityadas"/>&nbsp;
-<img  src="https://github-readme-stats.vercel.app/api?username=dipadityadas&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=45,EA68AA,8F65BB"  alt="dipadityadas"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=dipadityadas&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=0,21D4FD,B721FF,FF00F4"  alt="dipadityadas"/>
 </p>
