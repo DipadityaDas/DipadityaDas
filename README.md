@@ -37,8 +37,7 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="30"/>&nbsp;
-<img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor
-" alt="css3" height="30"/>&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" height="30"/>&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="30"/>&nbsp;
