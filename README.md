@@ -12,8 +12,6 @@
 <a  href="https://stackoverflow.com/users/14142490/dipaditya-das"  target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"  alt="Stackoverflow"  height="25"/></a>
 </p>
 
-  
-
 - 🔭 I’m currently working on **JARVIS Assistant**
 - 🌱 I’m currently learning **Flutter, Ansible(RH294) and Advanced Python**
 - 👯 I’m looking to collaborate on **Multi-Cloud Infrasturcture**
@@ -22,53 +20,54 @@
 - 💬 Ask me about **Python, Java, RHEL8, Flutter, Hybrid-Multi-Cloud**
 - 📫 How to reach me **DipadityaDas@gmail.com**
 - ⚡ Fun fact **I ❤ Kolkata Biriyani**
-  
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
 ### ⚡ Languages and Tools ⚡
+
 <p  align="left">
-<img  src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="git-scm"  height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/github/github-icon.svg"  alt="git-scm"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="Git"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg"  alt="Github"  height="30"/>&nbsp;
 <img src="https://cdn.base64decode.net/images/decode/92b360777c1b57eac279611dd700cb11.png"  alt="VSCode" height="30"/>&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" height="30"/>&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="css3" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Html5" height="30"/>&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="Css3" height="30"/>&nbsp;
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angularjs" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angularjs" height="30"/>&nbsp;
+<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/python/python-icon.svg"  alt="Python3"  height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"  alt="Opencv"  height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"  alt="Tensorflow" height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"  alt="Pytorch"  height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"  alt="Flask" height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"  alt="Django" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"  alt="Docker"  height="30">&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  alt="Kubernetes" height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"  alt="Redhat Linux" height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  alt="Ansible"  height="30"/>&nbsp;
-<img  src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"  alt="GoogleCloud"  height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"  alt="Azure" height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg"  alt="Openstack" height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"  alt="Jenkins"  height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"  alt="OpenShift" height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"  alt="Prometheus"  height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"  alt=""  height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  alt="Terraform"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"  alt="Python3"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"  alt="Opencv"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"  alt="Tensorflow" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"  alt="Pytorch"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"  alt="Flask" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"  alt="Django" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"  alt="Docker"  height="30">&nbsp;
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  alt="Kubernetes" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"  alt="Redhat Linux" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  alt="Ansible"  height="30"/>&nbsp;
+<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"  alt="GoogleCloud"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"  alt="Azure" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg"  alt="Openstack" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"  alt="Jenkins"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"  alt="OpenShift" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"  alt="Prometheus"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"  alt="Grafana"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  alt="Terraform"  height="30"/>&nbsp;
 </p>
 
 <p  align="center">
