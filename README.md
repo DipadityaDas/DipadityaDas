@@ -1,15 +1,15 @@
-<h1  align="center">Hi <img  src="https://github.com/DipadityaDas/DipadityaDas/raw/master/wave.gif"  width="40"> I'm Dipaditya Das.</h1>
-<h3  align="center">A Passionate Engineering and Developer from India</h3>
-<p  align="center">
-<a  href="https://codepen.io/dipadityadas"  target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg"  alt="CodePen"  height="25"/></a>&nbsp;
-<a  href="https://kaggle.com/dipadityadas"  target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg"  alt="Kaggle"  height="25"/></a>&nbsp;
-<a  href="https://fb.com/dipaditya.das"  target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"  alt="Facebook"  height="25"/></a>&nbsp;
-<a  href="https://linkedin.com/in/DipadityaDas"  target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"  alt="LinkedIn"  height="25"/></a>&nbsp;
-<a  href="https://dev.to/dipadityadas"  target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"  alt="Dev.to"  height="30"/></a>&nbsp;
-<a  href="https://medium.com/@dipadityadas"  target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  alt="Medium"  height="25"/></a>&nbsp;
-<a  href="https://instagram.com/dipaditya_das"  target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"  alt="Instagram"  height="25"/></a>&nbsp;
-<a  href="https://twitter.com/@dipadityadas"  target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  alt="Twitter"  height="25"/></a>&nbsp;
-<a  href="https://stackoverflow.com/users/14142490/dipaditya-das"  target="blank"><img  src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg"  alt="Stackoverflow"  height="25"/></a>
+<h1 align="center">Hi <img  src="https://github.com/DipadityaDas/DipadityaDas/raw/master/wave.gif" width="40"> I'm Dipaditya Das.</h1>
+<h3 align="center">A Passionate Engineering and Developer from India</h3>
+<p align="center">
+<a href="https://codepen.io/dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="CodePen" height="25"/></a>&nbsp;
+<a href="https://kaggle.com/dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Kaggle" height="25"/></a>&nbsp;
+<a href="https://fb.com/dipaditya.das" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="25"/></a>&nbsp;
+<a href="https://linkedin.com/in/DipadityaDas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="25"/></a>&nbsp;
+<a href="https://dev.to/dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="30"/></a>&nbsp;
+<a href="https://medium.com/@dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="25"/></a>&nbsp;
+<a href="https://instagram.com/dipaditya_das" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="25"/></a>&nbsp;
+<a href="https://twitter.com/@dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="25"/></a>&nbsp;
+<a href="https://stackoverflow.com/users/14142490/dipaditya-das" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stackoverflow" height="25"/></a>
 </p>
 
 - 🔭 I’m currently working on **JARVIS Assistant**
