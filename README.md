@@ -21,7 +21,7 @@
 - 💬 Ask me about **Python, Java, RHEL8, Flutter, Hybrid-Multi-Cloud**
 - 📫 How to reach me **DipadityaDas@gmail.com**
 - ⚡ Fun fact **I ❤ Kolkata Biriyani**
- 
+
 <!-- ### Blogs posts -->
 
 <!-- BLOG-POST-LIST:START -->
@@ -41,9 +41,16 @@
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django" height="30"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" height="30"> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" height="30"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg" alt="Redhat Linux" height="30"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" height="30"/> &nbsp;
 <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" height="30"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GoogleCloud" height="30"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" height="30"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg" alt="Openstack" height="30"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" height="30"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg" alt="OpenShift" height="30"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" height="30"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="" height="30"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" height="30"/> &nbsp;
 </p>
 <!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android"  height="30"/>
