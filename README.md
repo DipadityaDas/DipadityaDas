@@ -52,6 +52,7 @@
 <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"  alt="Django" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="30"/>&nbsp;
