@@ -67,6 +67,9 @@
 <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"  alt="OpenShift" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"  alt="Prometheus"  height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"  alt="Grafana"  height="30"/>&nbsp;
+<img  src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  alt="Elastic Search"  height="30"/>&nbsp;
+<img  src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  alt="Logstash"  height="30"/>&nbsp;
+<img  src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"  alt="Kibanna"  height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  alt="Terraform"  height="30"/>&nbsp;
 </p>
 
