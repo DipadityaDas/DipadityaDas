@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img  src="https://github.com/DipadityaDas/DipadityaDas/raw/master/wave.gif" width="40"> I'm Dipaditya Das.</h1>
+<h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img  src="https://github.com/DipadityaDas/DipadityaDas/raw/master/wave.gif" width="40"></h1>
 <h3 align="center">A Passionate Engineering and Developer from India</h3>
 <p align="center">
 <a href="https://codepen.io/dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="CodePen" height="25"/></a>&nbsp;
@@ -27,7 +27,7 @@
 
 ### ⚡ Languages and Tools ⚡
 
-<p  align="left">
+<p align="left">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="Git"  height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg"  alt="Github"  height="30"/>&nbsp;
 <img src="https://cdn.base64decode.net/images/decode/92b360777c1b57eac279611dd700cb11.png"  alt="VSCode" height="30"/>&nbsp;
@@ -68,13 +68,13 @@
 <img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"  alt="OpenShift" height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"  alt="Prometheus"  height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"  alt="Grafana"  height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  alt="Elastic Search"  height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  alt="Logstash"  height="30"/>&nbsp;
-<img  src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"  alt="Kibanna"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  alt="Elastic Search"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  alt="Logstash"  height="30"/>&nbsp;
+<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"  alt="Kibanna"  height="30"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  alt="Terraform"  height="30"/>&nbsp;
 </p>
 
-<p  align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipadityadas&hide=html,css&card_width=275&title_color=ffffff&text_color=ffffff&bg_color=0,FF00F4,B721FF,21D4FD"  alt="dipadityadas"/>&nbsp;
-<img  src="https://github-readme-stats.vercel.app/api?username=dipadityadas&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=0,21D4FD,B721FF,FF00F4"  alt="dipadityadas"/>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipadityadas&hide=html,css&card_width=275&title_color=ffffff&text_color=ffffff&bg_color=45,B721FF,21D4FD"  alt="dipadityadas"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=dipadityadas&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=45,21D4FD,B721FF"  alt="dipadityadas"/>
 </p>
