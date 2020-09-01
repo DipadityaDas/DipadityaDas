@@ -1,15 +1,12 @@
 <h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img  src="https://github.com/DipadityaDas/DipadityaDas/raw/master/wave.gif" width="40"></h1>
 <h3 align="center">A Passionate Engineering and Developer from India</h3>
 <p align="center">
-<a href="https://codepen.io/dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="CodePen" height="25"/></a>&nbsp;
-<a href="https://kaggle.com/dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="Kaggle" height="25"/></a>&nbsp;
 <a href="https://fb.com/dipaditya.das" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="25"/></a>&nbsp;
 <a href="https://linkedin.com/in/DipadityaDas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="25"/></a>&nbsp;
 <a href="https://dev.to/dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="30"/></a>&nbsp;
 <a href="https://medium.com/@dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="25"/></a>&nbsp;
 <a href="https://instagram.com/dipaditya_das" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="25"/></a>&nbsp;
 <a href="https://twitter.com/@dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="25"/></a>&nbsp;
-<a href="https://stackoverflow.com/users/14142490/dipaditya-das" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="Stackoverflow" height="25"/></a>
 </p>
 
 - 🔭 I’m currently working on **JARVIS Assistant**
@@ -74,7 +71,4 @@
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  alt="Terraform"  height="30"/>&nbsp;
 </p>
 
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipadityadas&hide=html,css&card_width=275&title_color=ffffff&text_color=ffffff&bg_color=45,B721FF,21D4FD"  alt="dipadityadas"/>&nbsp; -->
 <img src="https://github-readme-stats.dipadityadas.vercel.app/api?username=dipadityadas&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=45,21D4FD,010101"  alt="dipadityadas"/>
-<!-- </p> -->
