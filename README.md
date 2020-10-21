@@ -57,7 +57,7 @@
 <img src="img/kubernetes.svg"  alt="Kubernetes" height="30"/>&nbsp;
 <img src="img/redhat.svg"  alt="Redhat Linux" height="30"/>&nbsp;
 <img src="img/ansible.svg"  alt="Ansible"  height="30"/>&nbsp;
-<img src="img/aws.svg" alt="AWS" height="30"/>&nbsp;
+<img src="img/aws.png" alt="AWS" height="30"/>&nbsp;
 <img src="img/google_cloud.svg"  alt="GoogleCloud"  height="30"/>&nbsp;
 <img src="img/microsoft_azure.svg"  alt="Azure" height="30"/>&nbsp;
 <img src="img/openstack.svg"  alt="Openstack" height="30"/>&nbsp;
