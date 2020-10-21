@@ -1,12 +1,13 @@
-<h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img  src="https://github.com/DipadityaDas/DipadityaDas/raw/master/wave.gif" width="40"></h1>
-<h3 align="center">A Passionate Engineering and Developer from India</h3>
+<h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img  src="img/wave.gif" width="40"></h1>
+<h3 align="center">An Indian Engineer and Developer.</h3>
+
 <p align="center">
-<a href="https://fb.com/dipaditya.das" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Facebook" height="25"/></a>&nbsp;
-<a href="https://linkedin.com/in/DipadityaDas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="25"/></a>&nbsp;
-<a href="https://dev.to/dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" height="30"/></a>&nbsp;
-<a href="https://medium.com/@dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="25"/></a>&nbsp;
-<a href="https://instagram.com/dipaditya_das" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="25"/></a>&nbsp;
-<a href="https://twitter.com/@dipadityadas" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="25"/></a>&nbsp;
+<a href="https://fb.com/dipaditya.das" target="blank"><img src="img/facebook.svg" alt="Facebook" height="25"/></a>&nbsp;
+<a href="https://linkedin.com/in/DipadityaDas" target="blank"><img src="img/linkedin.svg" alt="LinkedIn" height="25"/></a>&nbsp;
+<a href="https://dev.to/dipadityadas" target="blank"><img src="img/devto.svg" alt="Dev.to" height="25"/></a>&nbsp;
+<a href="https://medium.com/@dipadityadas" target="blank"><img src="img/medium.svg" alt="Medium" height="25"/></a>&nbsp;
+<a href="https://instagram.com/dipaditya_das" target="blank"><img src="img/instagram.svg" alt="Instagram" height="25"/></a>&nbsp;
+<a href="https://twitter.com/@dipadityadas" target="blank"><img src="img/twitter.svg" alt="Twitter" height="25"/></a>&nbsp;
 </p>
 
 - 🔭 I’m currently working on **JARVIS Assistant**
@@ -24,51 +25,50 @@
 
 ### ⚡ Languages and Tools ⚡
 
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"  alt="Git"  height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg"  alt="Github"  height="30"/>&nbsp;
-<img src="https://cdn.base64decode.net/images/decode/92b360777c1b57eac279611dd700cb11.png"  alt="VSCode" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Html5" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original.svg" alt="Css3" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJS" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angularjs" height="30"/>&nbsp;
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="Redux" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="Gatsby" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"  alt="Python3"  height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg"  alt="Opencv"  height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"  alt="Tensorflow" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"  alt="Pytorch"  height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"  alt="Flask" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg"  alt="Django" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="Mongodb" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"  alt="Docker"  height="30">&nbsp;
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"  alt="Kubernetes" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"  alt="Redhat Linux" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"  alt="Ansible"  height="30"/>&nbsp;
-<img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"  alt="GoogleCloud"  height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"  alt="Azure" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/openstack/openstack-icon.svg"  alt="Openstack" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"  alt="Jenkins"  height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"  alt="OpenShift" height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"  alt="Prometheus"  height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"  alt="Grafana"  height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  alt="Elastic Search"  height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg"  alt="Logstash"  height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"  alt="Kibanna"  height="30"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"  alt="Terraform"  height="30"/>&nbsp;
-</p>
+<img src="img/git.svg"  alt="Git"  height="30"/>&nbsp;
+<img src="img/github.svg"  alt="Github"  height="30"/>&nbsp;
+<img src="img/vscode.png"  alt="VSCode" height="30"/>&nbsp;
+<img src="img/c.svg" alt="c" height="30"/>&nbsp;
+<img src="img/cplusplus.svg" alt="cplusplus" height="30"/>&nbsp;
+<img src="img/java.svg" alt="Java" height="30"/>&nbsp;
+<img src="img/springio.svg" alt="Spring" height="30"/>&nbsp;
+<img src="img/html5.svg" alt="Html5" height="30"/>&nbsp;
+<img src="img/css3.svg" alt="Css3" height="30"/>&nbsp;
+<img src="img/javascript.svg" alt="JavaScript" height="30"/>&nbsp;
+<img src="img/nodejs.svg" alt="NodeJS" height="30"/>&nbsp;
+<img src="img/reactjs.svg" alt="React" height="30"/>&nbsp;
+<img src="img/angular.svg" alt="Angularjs" height="30"/>&nbsp;
+<img src="img/redux.svg" alt="Redux" height="30"/>&nbsp;
+<img src="img/gatsbyjs.svg" alt="Gatsby" height="30"/>&nbsp;
+<img src="img/nginx.svg" alt="nginx" height="30"/>&nbsp;
+<img src="img/python.svg"  alt="Python3"  height="30"/>&nbsp;
+<img src="img/opencv.svg"  alt="Opencv"  height="30"/>&nbsp;
+<img src="img/tensorflow.svg"  alt="Tensorflow" height="30"/>&nbsp;
+<img src="img/pytorch.svg"  alt="Pytorch"  height="30"/>&nbsp;
+<img src="img/flask.svg"  alt="Flask" height="30"/>&nbsp;
+<img src="img/djangoproject.svg"  alt="Django" height="30"/>&nbsp;
+<img src="img/mysql.svg" alt="MySQL" height="30"/>&nbsp;
+<img src="img/mongodb.svg" alt="Mongodb" height="30"/>&nbsp;
+<img src="img/graphql.svg" alt="GraphQL" height="30"/>&nbsp;
+<img src="img/dartlang.svg" alt="Dart" height="30"/>&nbsp;
+<img src="img/flutterio.svg" alt="Flutter" height="30"/>&nbsp;
+<img src="img/firebase.svg" alt="Firebase" height="30"/>&nbsp;
+<img src="img/docker.svg"  alt="Docker"  height="30">&nbsp;
+<img src="img/kubernetes.svg"  alt="Kubernetes" height="30"/>&nbsp;
+<img src="img/redhat.svg"  alt="Redhat Linux" height="30"/>&nbsp;
+<img src="img/ansible.svg"  alt="Ansible"  height="30"/>&nbsp;
+<img src="img/aws.svg" alt="AWS" height="30"/>&nbsp;
+<img src="img/google_cloud.svg"  alt="GoogleCloud"  height="30"/>&nbsp;
+<img src="img/microsoft_azure.svg"  alt="Azure" height="30"/>&nbsp;
+<img src="img/openstack.svg"  alt="Openstack" height="30"/>&nbsp;
+<img src="img/jenkins.svg"  alt="Jenkins"  height="30"/>&nbsp;
+<img src="img/openshift.svg"  alt="OpenShift" height="30"/>&nbsp;
+<img src="img/prometheusio.svg"  alt="Prometheus"  height="30"/>&nbsp;
+<img src="img/grafana.svg"  alt="Grafana"  height="30"/>&nbsp;
+<img src="img/elastic.svg"  alt="Elastic Search"  height="30"/>&nbsp;
+<img src="img/elasticco_logstash.svg"  alt="Logstash"  height="30"/>&nbsp;
+<img src="img/elasticco_kibana.svg"  alt="Kibanna"  height="30"/>&nbsp;
+<img src="img/terraformio.svg"  alt="Terraform"  height="30"/>&nbsp;
+
 
 <img src="https://github-readme-stats.dipadityadas.vercel.app/api?username=dipadityadas&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=45,21D4FD,010101"  alt="dipadityadas"/>
