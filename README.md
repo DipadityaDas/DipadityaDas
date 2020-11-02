@@ -20,10 +20,6 @@
 - 📫 How to reach me **DipadityaDas@gmail.com**
 - ⚡ Fun fact **I ❤ Kolkata Biriyani**
 
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ### ⚡ Languages and Tools ⚡
 
 <img src="img/git.svg"  alt="Git"  height="30"/>&nbsp;
@@ -72,6 +68,15 @@
 <img src="img/elasticco_logstash.svg"  alt="Logstash"  height="30"/>&nbsp;
 <img src="img/elasticco_kibana.svg"  alt="Kibanna"  height="30"/>&nbsp;
 <img src="img/terraformio.svg"  alt="Terraform"  height="30"/>&nbsp;
+
+
+
+<!-- ### Blogs posts -->
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+---
 
 <details>
   <summary>🚀 GitHub Stats</summary>
