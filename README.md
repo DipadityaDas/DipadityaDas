@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img  src="img/wave.gif" width="40"></h1>
-<h3 align="center">An Indian Engineer and Developer.</h3>
+<h3 align="center"><samp>An Indian Engineer and Developer.</samp></h3>
 
 <p align="center">
 <a href="https://fb.com/dipaditya.das" target="blank"><img src="img/facebook.svg" alt="Facebook" height="25"/></a>&nbsp;
