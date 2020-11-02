@@ -1,5 +1,7 @@
 <h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img  src="img/wave.gif" width="40"></h1>
-<h3 align="center"><samp>An Indian Engineer and Developer.</samp></h3>
+<center><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</center>
+<h3 align="center"><samp>I am an Indian Engineer and Developer.</samp></h3>
 
 <p align="center">
 <a href="https://fb.com/dipaditya.das" target="blank"><img src="img/facebook.svg" alt="Facebook" height="25"/></a>&nbsp;
@@ -62,6 +64,7 @@
 <img src="img/google_cloud.svg"  alt="GoogleCloud"  height="30"/>&nbsp;
 <img src="img/microsoft_azure.svg"  alt="Azure" height="30"/>&nbsp;
 <img src="img/openstack.svg"  alt="Openstack" height="30"/>&nbsp;
+<img src="img/hadoop.svg"  alt="Apache Hadoop" height="30"/>&nbsp;
 <img src="img/jenkins.svg"  alt="Jenkins"  height="30"/>&nbsp;
 <img src="img/openshift.svg"  alt="OpenShift" height="30"/>&nbsp;
 <img src="img/prometheusio.svg"  alt="Prometheus"  height="30"/>&nbsp;
@@ -74,7 +77,7 @@
 
 <details>
   <summary style="font-size: 120%;font-weight: 500">🚀 GitHub Stats</summary>
-  <p align=center>
+  <center>
 	<img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats.dipadityadas.vercel.app/api?username=dipadityadas&show_icons=true&hide_border=true"/>
-  </p>
+  </center>
 </details>
