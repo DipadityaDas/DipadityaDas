@@ -1,6 +1,5 @@
 <h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img  src="img/wave.gif" width="40"></h1>
-<center><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-</center>
+<p align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/></p>
 <h3 align="center"><samp>I am an Indian Engineer and Developer.</samp></h3>
 
 <p align="center">
@@ -77,7 +76,7 @@
 
 <details>
   <summary style="font-size: 120%;font-weight: 500">🚀 GitHub Stats</summary>
-  <center>
+  <p align="center">
 	<img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats.dipadityadas.vercel.app/api?username=dipadityadas&show_icons=true&hide_border=true"/>
-  </center>
+  </p>
 </details>
