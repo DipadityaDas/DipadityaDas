@@ -81,6 +81,6 @@
 <details>
   <summary>🚀 GitHub Stats</summary>
   <p align="center">
-	  <img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats.dipadityadas.vercel.app/api?username=dipadityadas&show_icons=true&hide_border=true"/>
+	  <img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats.dipadityadas.vercel.app/api?username=dipadityadas&theme=algolia&hide=prs&show_icons=true&hide_border=true"/>
   </p>
 </details>
