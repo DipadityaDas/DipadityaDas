@@ -26,7 +26,7 @@
 ### ⚡ Languages and Tools ⚡
 
 <img src="img/git.svg"  alt="Git"  height="30"/>&nbsp;
-<img src="img/github.svg"  alt="Github"  height="30"/>&nbsp;
+<img src="img/github.png"  alt="Github"  height="30"/>&nbsp;
 <img src="img/vscode.png"  alt="VSCode" height="30"/>&nbsp;
 <img src="img/c.svg" alt="c" height="30"/>&nbsp;
 <img src="img/cplusplus.svg" alt="cplusplus" height="30"/>&nbsp;
@@ -48,6 +48,7 @@
 <img src="img/flask.svg"  alt="Flask" height="30"/>&nbsp;
 <img src="img/djangoproject.svg"  alt="Django" height="30"/>&nbsp;
 <img src="img/mysql.svg" alt="MySQL" height="30"/>&nbsp;
+<img src="img/mariadb.png" alt="MariaDB" height="30"/>&nbsp;
 <img src="img/mongodb.svg" alt="Mongodb" height="30"/>&nbsp;
 <img src="img/graphql.svg" alt="GraphQL" height="30"/>&nbsp;
 <img src="img/dartlang.svg" alt="Dart" height="30"/>&nbsp;
