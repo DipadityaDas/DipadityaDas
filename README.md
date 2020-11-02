@@ -1,5 +1,5 @@
 <h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img  src="img/wave.gif" width="40"></h1>
-<p align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320"/></p>
+<p align="center"><img alt="GIF" src="img/code.gif" width="500" height="320"/></p>
 <h3 align="center"><samp>I am an Indian Engineer and Developer.</samp></h3>
 
 <p align="center">
