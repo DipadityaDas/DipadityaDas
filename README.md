@@ -71,4 +71,9 @@
 <img src="img/terraformio.svg"  alt="Terraform"  height="30"/>&nbsp;
 
 
-<img src="https://github-readme-stats.dipadityadas.vercel.app/api?username=dipadityadas&show_icons=true&theme=radical&title_color=ffffff&text_color=ffffff&bg_color=45,21D4FD,010101"  alt="dipadityadas"/>
+<details>
+  <summary style="font-size: 120%;font-weight: 500">🚀 GitHub Stats</summary>
+  <p align=center>
+	<img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats.dipadityadas.vercel.app/api?username=dipadityadas&show_icons=true&hide_border=true"/>
+  </p>
+</details>
