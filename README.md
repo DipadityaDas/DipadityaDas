@@ -77,7 +77,7 @@
 ---
 
 <details>
-  <summary style="padding:10px">🚀 GitHub Stats</summary>
+  <summary><b>🚀 GitHub Stats</b></summary>
   <p align="center">
 	  <img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats.dipadityadas.vercel.app/api?username=dipadityadas&theme=algolia&hide=prs&show_icons=true&hide_border=true"/>&nbsp;
     <img alt="Top Laanguages Used" src="https://github-readme-stats.dipadityadas.vercel.app/api/top-langs/?username=dipadityadas&layout=compact">
