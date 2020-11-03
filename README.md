@@ -22,53 +22,52 @@
 
 ### ⚡ Languages and Tools ⚡
 
-<img height="30" alt="Git" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/git.svg"/>&nbsp;
-<img height="30" alt="Github" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/github.png"/>&nbsp;
-<img height="30" alt="VSCode" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/vscode.png"/>&nbsp;
-<img height="30" alt="C" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/c.svg"/>&nbsp;
-<img height="30" alt="Cplusplus" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/cplusplus.svg"/>&nbsp;
-<img height="30" alt="Java" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/java.svg"/>&nbsp;
-<img height="30" alt="Spring" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/spring.svg"/>&nbsp;
-<img height="30" alt="Html5" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/html5.svg"/>&nbsp;
-<img height="30" alt="Css3" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/css3.svg"/>&nbsp;
-<img height="30" alt="JavaScript" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/javascript.svg"/>&nbsp;
-<img height="30" alt="NodeJS" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/nodejs.svg"/>&nbsp;
-<img height="30" alt="React" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/reactjs.svg"/>&nbsp;
-<img height="30" alt="Angularjs" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/angular.svg"/>&nbsp;
-<img height="30" alt="Redux" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/redux.svg"/>&nbsp;
-<img height="30" alt="Gatsby" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gatsbyjs.svg"/>&nbsp;
-<img height="30" alt="Nginx" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/nginx.svg"/>&nbsp;
-<img height="30" alt="Python3" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/python.svg"/>&nbsp;
-<img height="30" alt="Opencv" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"/>&nbsp;
-<img height="30" alt="Tensorflow" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/tensorflow.svg"/>&nbsp;
-<img height="30" alt="Pytorch" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"/>&nbsp;
-<img height="30" alt="Flask" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flask.svg"/>&nbsp;
-<img height="30" alt="Django" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/django.svg"/>&nbsp;
-<img height="30" alt="MySQL" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mysql.svg"/>&nbsp;
-<img height="30" alt="MariaDB" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"/>&nbsp;
-<img height="30" alt="MongoDB" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mongodb.svg"/>&nbsp;
-<img height="30" alt="GraphQL" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/graphql.svg"/>&nbsp;
-<img height="30" alt="Dart" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/dart.svg"/>&nbsp;
-<img height="30" alt="Flutter" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flutter.svg"/>&nbsp;
-<img height="30" alt="Firebase" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/firebase.svg"/>&nbsp;
-<img height="30" alt="Docker" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/docker.svg"/>&nbsp;
-<img height="30" alt="Kubernetes" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kubernetes.svg"/>&nbsp;
-<img height="30" alt="Redhat Linux" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/redhat.svg"/>&nbsp;
-<img height="30" alt="Ansible" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"/>&nbsp;
-<img height="30" alt="AWS" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/aws.png"/>&nbsp;
-<img height="30" alt="GoogleCloud" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/google_cloud.svg"/>&nbsp;
-<img height="30" alt="Azure" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/microsoft_azure.svg"/>&nbsp;
-<img height="30" alt="Openstack" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openstack.svg"/>&nbsp;
-<img height="30" alt="Hadoop" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/hadoop.svg"/>&nbsp;
-<img height="30" alt="Jenkins" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/jenkins.svg"/>&nbsp;
-<img height="30" alt="OpenShift" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openshift.svg"/>&nbsp;
-<img height="30" alt="Prometheus" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/prometheusio.svg"/>&nbsp;
-<img height="30" alt="Grafana" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/grafana.svg"/>&nbsp;
-<img height="30" alt="Elastic Search" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/elastic.svg"/>&nbsp;
-<img height="30" alt="Logstash" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/logstash.svg"/>&nbsp;
-<img height="30" alt="Kibana" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kibana.svg"/>&nbsp;
-<img height="30" alt="Terraform" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/terraform.svg"/>&nbsp;
-
+<code><img height="30" alt="Git" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/git.svg"/></code>
+<code><img height="30" alt="Github" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/github.png"/></code>
+<code><img height="30" alt="VSCode" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/vscode.png"/></code>
+<code><img height="30" alt="C" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/c.svg"/></code>
+<code><img height="30" alt="Cplusplus" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/cplusplus.svg"/></code>
+<code><img height="30" alt="Java" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/java.svg"/></code>
+<code><img height="30" alt="Spring" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/spring.svg"/></code>
+<code><img height="30" alt="Html5" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/html5.svg"/></code>
+<code><img height="30" alt="Css3" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/css3.svg"/></code>
+<code><img height="30" alt="JavaScript" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/javascript.svg"/></code>
+<code><img height="30" alt="NodeJS" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/nodejs.svg"/></code>
+<code><img height="30" alt="React" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/reactjs.svg"/></code>
+<code><img height="30" alt="Angularjs" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/angular.svg"/></code>
+<code><img height="30" alt="Redux" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/redux.svg"/></code>
+<code><img height="30" alt="Gatsby" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gatsbyjs.svg"/></code>
+<code><img height="30" alt="Nginx" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/nginx.svg"/></code>
+<code><img height="30" alt="Python3" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/python.svg"/></code>
+<code><img height="30" alt="Opencv" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"/></code>
+<code><img height="30" alt="Tensorflow" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/tensorflow.svg"/></code>
+<code><img height="30" alt="Pytorch" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"/></code>
+<code><img height="30" alt="Flask" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flask.svg"/></code>
+<code><img height="30" alt="Django" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/django.svg"/></code>
+<code><img height="30" alt="MySQL" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mysql.svg"/></code>
+<code><img height="30" alt="MariaDB" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"/></code>
+<code><img height="30" alt="MongoDB" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mongodb.svg"/></code>
+<code><img height="30" alt="GraphQL" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/graphql.svg"/></code>
+<code><img height="30" alt="Dart" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/dart.svg"/></code>
+<code><img height="30" alt="Flutter" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flutter.svg"/></code>
+<code><img height="30" alt="Firebase" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/firebase.svg"/></code>
+<code><img height="30" alt="Docker" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/docker.svg"/></code>
+<code><img height="30" alt="Kubernetes" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kubernetes.svg"/></code>
+<code><img height="30" alt="Redhat Linux" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/redhat.svg"/></code>
+<code><img height="30" alt="Ansible" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"/></code>
+<code><img height="30" alt="AWS" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/aws.png"/></code>
+<code><img height="30" alt="GoogleCloud" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/google_cloud.svg"/></code>
+<code><img height="30" alt="Azure" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/microsoft_azure.svg"/></code>
+<code><img height="30" alt="Openstack" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openstack.svg"/></code>
+<code><img height="30" alt="Hadoop" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/hadoop.svg"/></code>
+<code><img height="30" alt="Jenkins" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/jenkins.svg"/></code>
+<code><img height="30" alt="OpenShift" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openshift.svg"/></code>
+<code><img height="30" alt="Prometheus" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/prometheusio.svg"/></code>
+<code><img height="30" alt="Grafana" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/grafana.svg"/></code>
+<code><img height="30" alt="Elastic Search" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/elastic.svg"/></code>
+<code><img height="30" alt="Logstash" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/logstash.svg"/></code>
+<code><img height="30" alt="Kibana" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kibana.svg"/></code>
+<code><img height="30" alt="Terraform" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/terraform.svg"/></code>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
