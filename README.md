@@ -1,14 +1,14 @@
-<h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img  src="img/wave.gif" width="40"></h1>
-<p align="center"><img alt="GIF" src="img/code.gif" width="500" height="320"/></p>
+<h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img  src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/wave.gif" width="40"></h1>
+<p align="center"><img alt="GIF" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/code.gif" width="500" height="320"/></p>
 <h3 align="center"><samp>I am an Indian Engineer and Developer.</samp></h3>
 
 <p align="center">
-<a href="https://fb.com/dipaditya.das" target="blank"><img src="img/facebook.svg" alt="Facebook" height="25"/></a>&nbsp;
-<a href="https://linkedin.com/in/DipadityaDas" target="blank"><img src="img/linkedin.svg" alt="LinkedIn" height="25"/></a>&nbsp;
-<a href="https://dev.to/dipadityadas" target="blank"><img src="img/devto.svg" alt="Dev.to" height="25"/></a>&nbsp;
-<a href="https://medium.com/@dipadityadas" target="blank"><img src="img/medium.svg" alt="Medium" height="25"/></a>&nbsp;
-<a href="https://instagram.com/dipaditya_das" target="blank"><img src="img/instagram.svg" alt="Instagram" height="25"/></a>&nbsp;
-<a href="https://twitter.com/@dipadityadas" target="blank"><img src="img/twitter.svg" alt="Twitter" height="25"/></a>&nbsp;
+<a href="https://fb.com/dipaditya.das" target="blank"><img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/facebook.svg" alt="Facebook" height="25"/></a>&nbsp;
+<a href="https://linkedin.com/in/DipadityaDas" target="blank"><img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/linkedin.svg" alt="LinkedIn" height="25"/></a>&nbsp;
+<a href="https://dev.to/dipadityadas" target="blank"><img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/devto.svg" alt="Dev.to" height="25"/></a>&nbsp;
+<a href="https://medium.com/@dipadityadas" target="blank"><img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/medium.svg" alt="Medium" height="25"/></a>&nbsp;
+<a href="https://instagram.com/dipaditya_das" target="blank"><img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/instagram.svg" alt="Instagram" height="25"/></a>&nbsp;
+<a href="https://twitter.com/@dipadityadas" target="blank"><img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/twitter.svg" alt="Twitter" height="25"/></a>&nbsp;
 </p>
 
 - 🔭 I’m currently working on **JARVIS Assistant**
