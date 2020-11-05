@@ -75,7 +75,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-### 🚀 GitHub Stats
+### 🚀 GitHub Stats 🚀
 
 <p align="center">
   <img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats.dipadityadas.vercel.app/api?username=dipadityadas&theme=algolia&hide=prs&show_icons=true&hide_border=true"/>&nbsp;
