@@ -34,7 +34,7 @@
 <code><img height="30" alt="Spring        " src="https://img.icons8.com/color/100/000000/spring-logo.svg"                   /></code>
 <code><img height="30" alt="Html5         " src="https://img.icons8.com/color/100/000000/html-5.svg"                        /></code>
 <code><img height="30" alt="Css3          " src="https://img.icons8.com/color/100/000000/css3.svg"                          /></code>
-<code><img height="30" alt="JavaScript    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/javascript.svg"/></code>
+<code><img height="30" alt="JavaScript    " src="https://img.icons8.com/color/100/000000/javascript.svg"                    /></code>
 <code><img height="30" alt="NodeJS        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/nodejs.svg"    /></code>
 <code><img height="30" alt="React         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/reactjs.svg"   /></code>
 <code><img height="30" alt="AngularJS     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/angular.svg"   /></code>
