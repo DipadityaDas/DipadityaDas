@@ -1,4 +1,4 @@
-<h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/wave.gif" width="40"></h1>
+<h1 align="center">Namaste 🙏 I'm Dipaditya Das.<img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/wave.gif" width="6%"></h1>
 <p align="center"><img alt="GIF" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/code.gif" width="500" height="320"/></p>
 <h3 align="center"><samp>I am an Indian Engineer and Developer.</samp></h3>
 
