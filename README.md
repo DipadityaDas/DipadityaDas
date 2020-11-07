@@ -82,7 +82,7 @@
 ### 🚀 GitHub Stats 🚀
 
 <div align="center">
-<img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats-5i0uvjfd7.vercel.app/api?username=dipadityadas&theme=algolia&hide=prs&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=1800"/>
+<img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats-5i0uvjfd7.vercel.app/api?username=dipadityadas&theme=algolia&hide=prs&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=1800&text_color=a9fef7&icon_color=f8d847"/>
 <img alt="Top Laanguages Used" src="https://github-readme-stats.dipadityadas.vercel.app/api/top-langs/?username=dipadityadas&layout=compact&theme=algolia&hide_border=true&cache_seconds=1800&langs_count=8">
 </div>
 <div align="center">
