@@ -58,7 +58,7 @@
 <code><img height="30" alt="Kubernetes    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kubernetes.svg"/></code>
 <code><img height="30" alt="Redhat Linux  " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/redhat.svg"    /></code>
 <code><img height="30" alt="Ansible       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"   /></code>
-<code><img height="30" alt="AWS           " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/aws.png"       /></code>
+<code><img height="30" alt="AWS           " src="https://img.icons8.com/color/100/000000/amazon-web-services.svg"           /></code>
 <code><img height="30" alt="Google Cloud  " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gcp.svg"       /></code>
 <code><img height="30" alt="Azure         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/azure.svg"     /></code>
 <code><img height="30" alt="Openstack     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openstack.svg" /></code>
