@@ -36,8 +36,8 @@
 <code><img height="30" alt="Css3          " src="https://img.icons8.com/color/100/000000/css3.svg"                          /></code>
 <code><img height="30" alt="JavaScript    " src="https://img.icons8.com/color/100/000000/javascript.svg"                    /></code>
 <code><img height="30" alt="NodeJS        " src="https://img.icons8.com/color/100/000000/nodejs.svg"                        /></code>
-<code><img height="30" alt="React Native  " src="https://img.icons8.com/color/100/000000/react-native.png"                  /></code>
-<code><img height="30" alt="AngularJS     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/angular.svg"   /></code>
+<code><img height="30" alt="React Native  " src="https://img.icons8.com/color/100/000000/react-native.svg"                  /></code>
+<code><img height="30" alt="AngularJS     " src="https://img.icons8.com/color/100/000000/angularjs.svg"                     /></code>
 <code><img height="30" alt="Redux         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/redux.svg"     /></code>
 <code><img height="30" alt="Gatsby        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gatsbyjs.svg"  /></code>
 <code><img height="30" alt="Nginx         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/nginx.svg"     /></code>
