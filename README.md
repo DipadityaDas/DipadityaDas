@@ -28,7 +28,7 @@
 <code><img height="30" alt="Git           " src="https://img.icons8.com/color/100/000000/git.svg"                           /></code>
 <code><img height="30" alt="Github        " src="https://img.icons8.com/fluent/100/000000/github.svg"                       /></code>
 <code><img height="30" alt="VSCode        " src="https://img.icons8.com/fluent/100/000000/visual-studio-code-2019.svg"      /></code>
-<code><img height="30" alt="C             " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/c.svg"         /></code>
+<code><img height="30" alt="C             " src="https://img.icons8.com/color/100/000000/c-programming.svg"                 /></code>
 <code><img height="30" alt="Cplusplus     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/cplusplus.svg" /></code>
 <code><img height="30" alt="Java          " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/java.svg"      /></code>
 <code><img height="30" alt="Spring        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/spring.svg"    /></code>
