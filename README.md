@@ -24,7 +24,7 @@
 
 ### ⚡ Languages and Tools ⚡
 
-<code><img height="30" alt="Git           " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/git.svg"     /></code>
+<code><img height="30" alt="Git           " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/git.svg"       /></code>
 <code><img height="30" alt="Github        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/github.png"    /></code>
 <code><img height="30" alt="VSCode        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/vscode.png"    /></code>
 <code><img height="30" alt="C             " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/c.svg"         /></code>
