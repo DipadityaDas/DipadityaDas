@@ -30,7 +30,7 @@
 <code><img height="30" alt="VSCode        " src="https://img.icons8.com/fluent/100/000000/visual-studio-code-2019.svg"      /></code>
 <code><img height="30" alt="C             " src="https://img.icons8.com/color/100/000000/c-programming.svg"                 /></code>
 <code><img height="30" alt="Cplusplus     " src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.svg"              /></code>
-<code><img height="30" alt="Java          " src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.svg"      /></code>
+<code><img height="30" alt="Java          " src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.svg"          /></code>
 <code><img height="30" alt="Spring        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/spring.svg"    /></code>
 <code><img height="30" alt="Html5         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/html5.svg"     /></code>
 <code><img height="30" alt="Css3          " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/css3.svg"      /></code>
@@ -82,8 +82,8 @@
 ### 🚀 GitHub Stats 🚀
 
 <div align="center">
-<img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats-5i0uvjfd7.vercel.app/api?username=dipadityadas&theme=algolia&hide=prs&show_icons=true&hide_border=true&include_all_commits=true"/>
-<img alt="Top Laanguages Used" src="https://github-readme-stats.dipadityadas.vercel.app/api/top-langs/?username=dipadityadas&layout=compact&theme=algolia&hide_border=true">
+<img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats-5i0uvjfd7.vercel.app/api?username=dipadityadas&theme=algolia&hide=prs&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=1800"/>
+<img alt="Top Laanguages Used" src="https://github-readme-stats.dipadityadas.vercel.app/api/top-langs/?username=dipadityadas&layout=compact&theme=algolia&hide_border=true&cache_seconds=1800&langs_count=8">
 </div>
 <div align="center">
 
