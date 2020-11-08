@@ -70,7 +70,7 @@
 <code><img height="32" alt="Elastic Search" src="https://img.icons8.com/color/100/000000/elasticsearch.svg"                 /></code>
 <code><img height="32" alt="Logstash      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/logstash.svg"  /></code>
 <code><img height="32" alt="Kibana        " src="https://img.icons8.com/color/100/000000/kibana.svg"                        /></code>
-<code><img height="32" alt="Terraform     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/terraform.svg" /></code>
+<code><img height="32" alt="Terraform     " src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"        /></code>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
