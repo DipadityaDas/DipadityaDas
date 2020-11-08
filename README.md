@@ -56,7 +56,7 @@
 <code><img height="32" alt="Firebase      " src="https://img.icons8.com/color/100/000000/firebase.svg"                      /></code>
 <code><img height="32" alt="Docker        " src="https://img.icons8.com/color/100/000000/docker.svg"                        /></code>
 <code><img height="32" alt="Kubernetes    " src="https://img.icons8.com/color/100/000000/kubernetes.svg"                    /></code>
-<code><img height="32" alt="Red Hat Linux " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/redhat.svg"    /></code>
+<code><img height="32" alt="Red Hat Linux " src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"                  /></code>
 <code><img height="32" alt="Ansible       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"   /></code>
 <code><img height="32" alt="AWS           " src="https://img.icons8.com/color/100/000000/amazon-web-services.svg"           /></code>
 <code><img height="32" alt="Google Cloud  " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gcp.svg"       /></code>
