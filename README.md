@@ -47,7 +47,7 @@
 <code><img height="32" alt="Pytorch       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"   /></code>
 <code><img height="32" alt="Flask         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flask.svg"     /></code>
 <code><img height="32" alt="Django        " src="https://img.icons8.com/color/100/000000/django.svg"                        /></code>
-<code><img height="32" alt="MySQL         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mysql.svg"     /></code>
+<code><img height="32" alt="MySQL         " src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"                    /></code>
 <code><img height="32" alt="MariaDB       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"   /></code>
 <code><img height="32" alt="MongoDB       " src="https://img.icons8.com/color/100/000000/mongodb.svg"                       /></code>
 <code><img height="32" alt="GraphQL       " src="https://img.icons8.com/color/100/000000/graphql.svg"                       /></code>
