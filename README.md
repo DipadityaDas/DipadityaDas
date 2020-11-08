@@ -61,7 +61,7 @@
 <code><img height="30" alt="AWS           " src="https://img.icons8.com/color/100/000000/amazon-web-services.svg"           /></code>
 <code><img height="30" alt="Google Cloud  " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gcp.svg"       /></code>
 <code><img height="30" alt="Azure         " src="https://img.icons8.com/color/100/000000/azure-1.svg"                       /></code>
-<code><img height="30" alt="Openstack     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openstack.svg" /></code>
+<code><img height="30" alt="Openstack     " src="https://img.icons8.com/color/100/000000/openstack.svg"                     /></code>
 <code><img height="30" alt="Hadoop        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/hadoop.svg"    /></code>
 <code><img height="30" alt="Jenkins       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/jenkins.svg"   /></code>
 <code><img height="30" alt="OpenShift     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openshift.svg" /></code>
