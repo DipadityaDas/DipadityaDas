@@ -63,7 +63,7 @@
 <code><img height="30" alt="Azure         " src="https://img.icons8.com/color/100/000000/azure-1.svg"                       /></code>
 <code><img height="30" alt="Openstack     " src="https://img.icons8.com/color/100/000000/openstack.svg"                     /></code>
 <code><img height="30" alt="Hadoop        " src="https://img.icons8.com/color/100/000000/hadoop-distributed-file-system.svg"/></code>
-<code><img height="30" alt="Jenkins       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/jenkins.svg"   /></code>
+<code><img height="30" alt="Jenkins       " src="https://img.icons8.com/color/100/000000/jenkins.svg"                       /></code>
 <code><img height="30" alt="OpenShift     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openshift.svg" /></code>
 <code><img height="30" alt="Prometheus    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/prometheus.svg"/></code>
 <code><img height="30" alt="Grafana       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/grafana.svg"   /></code>
