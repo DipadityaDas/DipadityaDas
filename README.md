@@ -55,7 +55,7 @@
 <code><img height="30" alt="Flutter       " src="https://img.icons8.com/color/100/000000/flutter.svg"                       /></code>
 <code><img height="30" alt="Firebase      " src="https://img.icons8.com/color/100/000000/firebase.svg"                      /></code>
 <code><img height="30" alt="Docker        " src="https://img.icons8.com/color/100/000000/docker.svg"                        /></code>
-<code><img height="30" alt="Kubernetes    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kubernetes.svg"/></code>
+<code><img height="30" alt="Kubernetes    " src="https://img.icons8.com/color/100/000000/kubernetes.svg"                    /></code>
 <code><img height="30" alt="Redhat Linux  " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/redhat.svg"    /></code>
 <code><img height="30" alt="Ansible       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"   /></code>
 <code><img height="30" alt="AWS           " src="https://img.icons8.com/color/100/000000/amazon-web-services.svg"           /></code>
