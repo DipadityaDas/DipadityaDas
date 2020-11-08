@@ -66,7 +66,7 @@
 <code><img height="32" alt="Jenkins       " src="https://img.icons8.com/color/100/000000/jenkins.svg"                       /></code>
 <code><img height="32" alt="OpenShift     " src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"            /></code>
 <code><img height="32" alt="Prometheus    " src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"      /></code>
-<code><img height="32" alt="Grafana       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/grafana.svg"   /></code>
+<code><img height="32" alt="Grafana       " src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"                /></code>
 <code><img height="32" alt="Elastic Search" src="https://img.icons8.com/color/100/000000/elasticsearch.svg"                 /></code>
 <code><img height="32" alt="Logstash      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/logstash.svg"  /></code>
 <code><img height="32" alt="Kibana        " src="https://img.icons8.com/color/100/000000/kibana.svg"                        /></code>
