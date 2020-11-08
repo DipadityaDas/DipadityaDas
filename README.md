@@ -41,7 +41,7 @@
 <code><img height="30" alt="Redux         " src="https://img.icons8.com/color/100/000000/redux.svg"                         /></code>
 <code><img height="30" alt="Gatsby        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gatsbyjs.svg"  /></code>
 <code><img height="30" alt="Nginx         " src="https://img.icons8.com/color/100/000000/nginx.svg"                         /></code>
-<code><img height="30" alt="Python3       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/python.svg"    /></code>
+<code><img height="30" alt="Python3       " src="https://img.icons8.com/color/100/000000/python.svg"                        /></code>
 <code><img height="30" alt="OpenCV        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"    /></code>
 <code><img height="30" alt="Tensorflow    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/tensorflow.svg"/></code>
 <code><img height="30" alt="Pytorch       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"   /></code>
