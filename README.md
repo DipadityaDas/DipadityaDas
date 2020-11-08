@@ -51,7 +51,7 @@
 <code><img height="30" alt="MariaDB       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"   /></code>
 <code><img height="30" alt="MongoDB       " src="https://img.icons8.com/color/100/000000/mongodb.svg"                       /></code>
 <code><img height="30" alt="GraphQL       " src="https://img.icons8.com/color/100/000000/graphql.svg"                       /></code>
-<code><img height="30" alt="Dart Lang     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/dart.svg"      /></code>
+<code><img height="30" alt="Dart Lang     " src="https://img.icons8.com/color/100/000000/dart.svg"                          /></code>
 <code><img height="30" alt="Flutter       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flutter.svg"   /></code>
 <code><img height="30" alt="Firebase      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/firebase.svg"  /></code>
 <code><img height="30" alt="Docker        " src="https://img.icons8.com/color/100/000000/docker.svg"                        /></code>
