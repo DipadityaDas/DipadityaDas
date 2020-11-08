@@ -43,7 +43,7 @@
 <code><img height="30" alt="Nginx         " src="https://img.icons8.com/color/100/000000/nginx.svg"                         /></code>
 <code><img height="30" alt="Python3       " src="https://img.icons8.com/color/100/000000/python.svg"                        /></code>
 <code><img height="30" alt="OpenCV        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"    /></code>
-<code><img height="30" alt="Tensorflow    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/tensorflow.svg"/></code>
+<code><img height="30" alt="Tensorflow    " src="https://img.icons8.com/color/100/000000/tensorflow.svg"                    /></code>
 <code><img height="30" alt="Pytorch       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"   /></code>
 <code><img height="30" alt="Flask         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flask.svg"     /></code>
 <code><img height="30" alt="Django        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/django.svg"    /></code>
