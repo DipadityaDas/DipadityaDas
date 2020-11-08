@@ -25,52 +25,52 @@
 
 ### ⚡ Languages and Tools ⚡
 
-<code><img height="30" alt="Git           " src="https://img.icons8.com/color/100/000000/git.svg"                           /></code>
-<code><img height="30" alt="Github        " src="https://img.icons8.com/fluent/100/000000/github.svg"                       /></code>
-<code><img height="30" alt="VSCode        " src="https://img.icons8.com/fluent/100/000000/visual-studio-code-2019.svg"      /></code>
-<code><img height="30" alt="C             " src="https://img.icons8.com/color/100/000000/c-programming.svg"                 /></code>
-<code><img height="30" alt="Cplusplus     " src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.svg"              /></code>
-<code><img height="30" alt="Java          " src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.svg"          /></code>
-<code><img height="30" alt="Spring        " src="https://img.icons8.com/color/100/000000/spring-logo.svg"                   /></code>
-<code><img height="30" alt="Html5         " src="https://img.icons8.com/color/100/000000/html-5.svg"                        /></code>
-<code><img height="30" alt="Css3          " src="https://img.icons8.com/color/100/000000/css3.svg"                          /></code>
-<code><img height="30" alt="JavaScript    " src="https://img.icons8.com/color/100/000000/javascript.svg"                    /></code>
-<code><img height="30" alt="NodeJS        " src="https://img.icons8.com/color/100/000000/nodejs.svg"                        /></code>
-<code><img height="30" alt="React Native  " src="https://img.icons8.com/color/100/000000/react-native.svg"                  /></code>
-<code><img height="30" alt="AngularJS     " src="https://img.icons8.com/color/100/000000/angularjs.svg"                     /></code>
-<code><img height="30" alt="Redux         " src="https://img.icons8.com/color/100/000000/redux.svg"                         /></code>
-<code><img height="30" alt="Gatsby        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gatsbyjs.svg"  /></code>
-<code><img height="30" alt="Nginx         " src="https://img.icons8.com/color/100/000000/nginx.svg"                         /></code>
-<code><img height="30" alt="Python3       " src="https://img.icons8.com/color/100/000000/python.svg"                        /></code>
-<code><img height="30" alt="OpenCV        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"    /></code>
-<code><img height="30" alt="Tensorflow    " src="https://img.icons8.com/color/100/000000/tensorflow.svg"                    /></code>
-<code><img height="30" alt="Pytorch       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"   /></code>
-<code><img height="30" alt="Flask         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flask.svg"     /></code>
-<code><img height="30" alt="Django        " src="https://img.icons8.com/color/100/000000/django.svg"                        /></code>
-<code><img height="30" alt="MySQL         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mysql.svg"     /></code>
-<code><img height="30" alt="MariaDB       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"   /></code>
-<code><img height="30" alt="MongoDB       " src="https://img.icons8.com/color/100/000000/mongodb.svg"                       /></code>
-<code><img height="30" alt="GraphQL       " src="https://img.icons8.com/color/100/000000/graphql.svg"                       /></code>
-<code><img height="30" alt="Dart Lang     " src="https://img.icons8.com/color/100/000000/dart.svg"                          /></code>
-<code><img height="30" alt="Flutter       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flutter.svg"   /></code>
-<code><img height="30" alt="Firebase      " src="https://img.icons8.com/color/100/000000/firebase.svg"                      /></code>
-<code><img height="30" alt="Docker        " src="https://img.icons8.com/color/100/000000/docker.svg"                        /></code>
-<code><img height="30" alt="Kubernetes    " src="https://img.icons8.com/color/100/000000/kubernetes.svg"                    /></code>
-<code><img height="30" alt="Red Hat Linux " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/redhat.svg"    /></code>
-<code><img height="30" alt="Ansible       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"   /></code>
-<code><img height="30" alt="AWS           " src="https://img.icons8.com/color/100/000000/amazon-web-services.svg"           /></code>
-<code><img height="30" alt="Google Cloud  " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gcp.svg"       /></code>
-<code><img height="30" alt="Azure         " src="https://img.icons8.com/color/100/000000/azure-1.svg"                       /></code>
-<code><img height="30" alt="Openstack     " src="https://img.icons8.com/color/100/000000/openstack.svg"                     /></code>
-<code><img height="30" alt="Hadoop        " src="https://img.icons8.com/color/100/000000/hadoop-distributed-file-system.svg"/></code>
-<code><img height="30" alt="Jenkins       " src="https://img.icons8.com/color/100/000000/jenkins.svg"                       /></code>
-<code><img height="30" alt="OpenShift     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openshift.svg" /></code>
-<code><img height="30" alt="Prometheus    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/prometheus.svg"/></code>
-<code><img height="30" alt="Grafana       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/grafana.svg"   /></code>
-<code><img height="30" alt="Elastic Search" src="https://img.icons8.com/color/100/000000/elasticsearch.svg"                 /></code>
-<code><img height="30" alt="Logstash      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/logstash.svg"  /></code>
-<code><img height="30" alt="Kibana        " src="https://img.icons8.com/color/100/000000/kibana.svg"                        /></code>
-<code><img height="30" alt="Terraform     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/terraform.svg" /></code>
+<code><img height="32" alt="Git           " src="https://img.icons8.com/color/100/000000/git.svg"                           /></code>
+<code><img height="32" alt="Github        " src="https://img.icons8.com/fluent/100/000000/github.svg"                       /></code>
+<code><img height="32" alt="VSCode        " src="https://img.icons8.com/fluent/100/000000/visual-studio-code-2019.svg"      /></code>
+<code><img height="32" alt="C             " src="https://img.icons8.com/color/100/000000/c-programming.svg"                 /></code>
+<code><img height="32" alt="Cplusplus     " src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.svg"              /></code>
+<code><img height="32" alt="Java          " src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.svg"          /></code>
+<code><img height="32" alt="Spring        " src="https://img.icons8.com/color/100/000000/spring-logo.svg"                   /></code>
+<code><img height="32" alt="Html5         " src="https://img.icons8.com/color/100/000000/html-5.svg"                        /></code>
+<code><img height="32" alt="Css3          " src="https://img.icons8.com/color/100/000000/css3.svg"                          /></code>
+<code><img height="32" alt="JavaScript    " src="https://img.icons8.com/color/100/000000/javascript.svg"                    /></code>
+<code><img height="32" alt="NodeJS        " src="https://img.icons8.com/color/100/000000/nodejs.svg"                        /></code>
+<code><img height="32" alt="React Native  " src="https://img.icons8.com/color/100/000000/react-native.svg"                  /></code>
+<code><img height="32" alt="AngularJS     " src="https://img.icons8.com/color/100/000000/angularjs.svg"                     /></code>
+<code><img height="32" alt="Redux         " src="https://img.icons8.com/color/100/000000/redux.svg"                         /></code>
+<code><img height="32" alt="Gatsby        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gatsbyjs.svg"  /></code>
+<code><img height="32" alt="Nginx         " src="https://img.icons8.com/color/100/000000/nginx.svg"                         /></code>
+<code><img height="32" alt="Python3       " src="https://img.icons8.com/color/100/000000/python.svg"                        /></code>
+<code><img height="32" alt="OpenCV        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"    /></code>
+<code><img height="32" alt="Tensorflow    " src="https://img.icons8.com/color/100/000000/tensorflow.svg"                    /></code>
+<code><img height="32" alt="Pytorch       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"   /></code>
+<code><img height="32" alt="Flask         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flask.svg"     /></code>
+<code><img height="32" alt="Django        " src="https://img.icons8.com/color/100/000000/django.svg"                        /></code>
+<code><img height="32" alt="MySQL         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mysql.svg"     /></code>
+<code><img height="32" alt="MariaDB       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"   /></code>
+<code><img height="32" alt="MongoDB       " src="https://img.icons8.com/color/100/000000/mongodb.svg"                       /></code>
+<code><img height="32" alt="GraphQL       " src="https://img.icons8.com/color/100/000000/graphql.svg"                       /></code>
+<code><img height="32" alt="Dart Lang     " src="https://img.icons8.com/color/100/000000/dart.svg"                          /></code>
+<code><img height="32" alt="Flutter       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flutter.svg"   /></code>
+<code><img height="32" alt="Firebase      " src="https://img.icons8.com/color/100/000000/firebase.svg"                      /></code>
+<code><img height="32" alt="Docker        " src="https://img.icons8.com/color/100/000000/docker.svg"                        /></code>
+<code><img height="32" alt="Kubernetes    " src="https://img.icons8.com/color/100/000000/kubernetes.svg"                    /></code>
+<code><img height="32" alt="Red Hat Linux " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/redhat.svg"    /></code>
+<code><img height="32" alt="Ansible       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"   /></code>
+<code><img height="32" alt="AWS           " src="https://img.icons8.com/color/100/000000/amazon-web-services.svg"           /></code>
+<code><img height="32" alt="Google Cloud  " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gcp.svg"       /></code>
+<code><img height="32" alt="Azure         " src="https://img.icons8.com/color/100/000000/azure-1.svg"                       /></code>
+<code><img height="32" alt="Openstack     " src="https://img.icons8.com/color/100/000000/openstack.svg"                     /></code>
+<code><img height="32" alt="Hadoop        " src="https://img.icons8.com/color/100/000000/hadoop-distributed-file-system.svg"/></code>
+<code><img height="32" alt="Jenkins       " src="https://img.icons8.com/color/100/000000/jenkins.svg"                       /></code>
+<code><img height="32" alt="OpenShift     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openshift.svg" /></code>
+<code><img height="32" alt="Prometheus    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/prometheus.svg"/></code>
+<code><img height="32" alt="Grafana       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/grafana.svg"   /></code>
+<code><img height="32" alt="Elastic Search" src="https://img.icons8.com/color/100/000000/elasticsearch.svg"                 /></code>
+<code><img height="32" alt="Logstash      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/logstash.svg"  /></code>
+<code><img height="32" alt="Kibana        " src="https://img.icons8.com/color/100/000000/kibana.svg"                        /></code>
+<code><img height="32" alt="Terraform     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/terraform.svg" /></code>
 
 <!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
