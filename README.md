@@ -49,7 +49,7 @@
 <code><img height="30" alt="Django        " src="https://img.icons8.com/color/100/000000/django.svg"                        /></code>
 <code><img height="30" alt="MySQL         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mysql.svg"     /></code>
 <code><img height="30" alt="MariaDB       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"   /></code>
-<code><img height="30" alt="MongoDB       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mongodb.svg"   /></code>
+<code><img height="30" alt="MongoDB       " src="https://img.icons8.com/color/100/000000/mongodb.svg"                       /></code>
 <code><img height="30" alt="GraphQL       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/graphql.svg"   /></code>
 <code><img height="30" alt="Dart Lang     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/dart.svg"      /></code>
 <code><img height="30" alt="Flutter       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flutter.svg"   /></code>
