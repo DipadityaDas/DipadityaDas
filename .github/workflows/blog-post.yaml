@@ -13,4 +13,4 @@ jobs:
       - name: Blog Post Workflow
       - uses: gautamkrishnar/blog-post-workflow@1.4.0
         with:
-          feed_list: "https://dipadityadas.medium.com"
+          feed_list: "https://medium.com/feed/@dipadityadas"
