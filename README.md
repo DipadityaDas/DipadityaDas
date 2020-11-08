@@ -72,10 +72,14 @@
 <code><img height="32" alt="Kibana        " src="https://img.icons8.com/color/100/000000/kibana.svg"                        /></code>
 <code><img height="32" alt="Terraform     " src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"        /></code>
 
-<!-- ### Blogs posts -->
+---
+
+### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+➡️ [More blog posts...](https://dipadityadas.medium.com/)
 
 ---
 
