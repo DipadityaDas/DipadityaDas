@@ -76,6 +76,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Magic Of AWS CLI v2](https://medium.com/@dipadityadas/the-magic-of-aws-cli-v2-2b51df40c522?source=rss-78dbd39bd990------2)
+- [AWS!!! AWS!!! AWS!!!](https://medium.com/@dipadityadas/aws-aws-aws-8b5396a7730c?source=rss-78dbd39bd990------2)
+- [The World of “Big Data”](https://medium.com/@dipadityadas/the-world-of-big-data-e738fe725c93?source=rss-78dbd39bd990------2)
+- [Create a Spotify Music Player UI Clone using Flutter](https://medium.com/@dipadityadas/create-a-spotify-music-player-ui-clone-using-flutter-46a6e4633e69?source=rss-78dbd39bd990------2)
+- [Creating Demilitarized Zone with NAT gateway in AWS for better security using Terraform](https://medium.com/@dipadityadas/creating-demilitarized-zone-with-nat-gateway-in-aws-for-better-security-using-terraform-5b78df29849?source=rss-78dbd39bd990------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://dipadityadas.medium.com/)
