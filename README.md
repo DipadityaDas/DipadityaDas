@@ -52,7 +52,7 @@
 <code><img height="32" alt="MongoDB       " src="https://img.icons8.com/color/100/000000/mongodb.svg"                       /></code>
 <code><img height="32" alt="GraphQL       " src="https://img.icons8.com/color/100/000000/graphql.svg"                       /></code>
 <code><img height="32" alt="Dart Lang     " src="https://img.icons8.com/color/100/000000/dart.svg"                          /></code>
-<code><img height="32" alt="Flutter       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flutter.svg"   /></code>
+<code><img height="32" alt="Flutter       " src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"            /></code>
 <code><img height="32" alt="Firebase      " src="https://img.icons8.com/color/100/000000/firebase.svg"                      /></code>
 <code><img height="32" alt="Docker        " src="https://img.icons8.com/color/100/000000/docker.svg"                        /></code>
 <code><img height="32" alt="Kubernetes    " src="https://img.icons8.com/color/100/000000/kubernetes.svg"                    /></code>
