@@ -37,7 +37,7 @@
 <code><img height="30" alt="Git           " src="https://img.icons8.com/color/100/000000/git.svg"                           /></code>
 <code><img height="30" alt="Github        " src="https://img.icons8.com/fluent/100/000000/github.svg"                       /></code>
 
-### ⚡ IDEs and Text Editors ⚡
+#### IDEs and Text Editors
 
 <code><img height="30" alt="VSCode        " src="https://img.icons8.com/fluent/100/000000/visual-studio-code-2019.svg"      /></code>
 <code><img height="30" alt="Visual Studio " src="https://img.icons8.com/fluent/100/000000/visual-studio-2019.svg"           /></code>
