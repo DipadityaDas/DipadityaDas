@@ -82,7 +82,7 @@
 <code><img height="30" alt="React Native  " src="https://img.icons8.com/color/100/000000/react-native.svg"                  /></code>
 <code><img height="30" alt="Kotlin        " src="https://img.icons8.com/color/100/000000/kotlin.svg"                        /></code>
 
-### ⚡ ML / AI ⚡
+#### Machine Learning and Artificial Intelligence
 
 <code><img height="30" alt="OpenCV        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"    /></code>
 <code><img height="30" alt="Tensorflow    " src="https://img.icons8.com/color/100/000000/tensorflow.svg"                    /></code>
