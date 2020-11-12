@@ -24,72 +24,93 @@
 - ⚡ Fun fact **I ❤ Kolkata Biriyani**
 
 ### ⚡ Languages ⚡
-
-### ⚡ SVM and VCS Tools ⚡
-
-### ⚡ IDEs and Text Editors ⚡
-
-### ⚡ Database Management Systems ⚡
-
-### ⚡ Full-Stack Web Development ⚡
-
-### ⚡ ML / AI ⚡
-
-### ⚡ Configuration and Provision Management Tools ⚡
-
-### ⚡ Containerization and Orchestration Management Tools ⚡
-
-### ⚡ Cloud Computing ⚡
-
-
-
-<!-- 
-<code><img height="32" alt="Git           " src="https://img.icons8.com/color/100/000000/git.svg"                           /></code>
-<code><img height="32" alt="Github        " src="https://img.icons8.com/fluent/100/000000/github.svg"                       /></code>
-<code><img height="32" alt="VSCode        " src="https://img.icons8.com/fluent/100/000000/visual-studio-code-2019.svg"      /></code>
 <code><img height="32" alt="C             " src="https://img.icons8.com/color/100/000000/c-programming.svg"                 /></code>
 <code><img height="32" alt="Cplusplus     " src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.svg"              /></code>
 <code><img height="32" alt="Java          " src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.svg"          /></code>
-<code><img height="32" alt="Spring        " src="https://img.icons8.com/color/100/000000/spring-logo.svg"                   /></code>
+<code><img height="32" alt="Python3       " src="https://img.icons8.com/color/100/000000/python.svg"                        /></code>
+<code><img height="32" alt="JavaScript    " src="https://img.icons8.com/color/100/000000/javascript.svg"                    /></code>
+<code><img height="32" alt="Dart Lang     " src="https://img.icons8.com/color/100/000000/dart.svg"                          /></code>
+
+### ⚡ SVM and VCS Tools ⚡
+<code><img height="32" alt="Git           " src="https://img.icons8.com/color/100/000000/git.svg"                           /></code>
+<code><img height="32" alt="Github        " src="https://img.icons8.com/fluent/100/000000/github.svg"                       /></code>
+
+
+### ⚡ IDEs and Text Editors ⚡
+<code><img height="32" alt="VSCode        " src="https://img.icons8.com/fluent/100/000000/visual-studio-code-2019.svg"      /></code>
+<code><img height="32" alt="Visual Studio " src="https://img.icons8.com/fluent/100/000000/visual-studio-2019.svg"           /></code>
+<code><img height="32" alt="Intellij-Idea " src="https://img.icons8.com/color/100/000000/intellij-idea.svg"                 /></code>
+<code><img height="32" alt="PyCharm IDE   " src="https://img.icons8.com/color/108/000000/pycharm.svg"                       /></code>
+<code><img height="32" alt="Sublime-Text  " src="https://img.icons8.com/fluent/100/000000/sublime-text.svg"                 /></code>
+
+
+### ⚡ Operating System ⚡
+<code><img height="32" alt="Red Hat Linux " src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"                  /></code>
+<code><img height="32" alt="CentOS 8      " src="https://img.icons8.com/color/100/000000/centos.png"                        /></code>
+<code><img height="32" alt="Ubuntu        " src="https://img.icons8.com/color/100/000000/ubuntu--v1.png"                    /></code>
+<code><img height="32" alt="Kali Linux    " src="https://img.icons8.com/color/100/000000/kali-linux.svg"                   /></code>
+<code><img height="32" alt="Windows 10    " src="https://img.icons8.com/fluent/100/000000/windows-10.svg"                   /></code>
+<code><img height="32" alt="Android       " src="https://img.icons8.com/fluent/100/000000/android-os.svg"                   /></code>
+
+### ⚡ Database Management Systems ⚡
+<code><img height="32" alt="MySQL         " src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"                      /></code>
+<code><img height="32" alt="MariaDB       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"     /></code>
+<code><img height="32" alt="PostgreSQL    " src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg"            /></code>
+<code><img height="32" alt="Cassandra     " src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg"/></code>
+<code><img height="32" alt="MongoDB       " src="https://img.icons8.com/color/100/000000/mongodb.svg"                         /></code>
+<code><img height="32" alt="GraphQL       " src="https://img.icons8.com/color/100/000000/graphql.svg"                         /></code>
+<code><img height="32" alt="Firebase      " src="https://img.icons8.com/color/100/000000/firebase.svg"                        /></code>
+
+### ⚡ Full-Stack Web Development ⚡
 <code><img height="32" alt="Html5         " src="https://img.icons8.com/color/100/000000/html-5.svg"                        /></code>
 <code><img height="32" alt="Css3          " src="https://img.icons8.com/color/100/000000/css3.svg"                          /></code>
-<code><img height="32" alt="JavaScript    " src="https://img.icons8.com/color/100/000000/javascript.svg"                    /></code>
 <code><img height="32" alt="NodeJS        " src="https://img.icons8.com/color/100/000000/nodejs.svg"                        /></code>
-<code><img height="32" alt="React Native  " src="https://img.icons8.com/color/100/000000/react-native.svg"                  /></code>
+<code><img height="32" alt="ReactJS       " src="https://img.icons8.com/color/100/000000/react-native.svg"                  /></code>
 <code><img height="32" alt="AngularJS     " src="https://img.icons8.com/color/100/000000/angularjs.svg"                     /></code>
-<code><img height="32" alt="Redux         " src="https://img.icons8.com/color/100/000000/redux.svg"                         /></code>
-<code><img height="32" alt="Gatsby        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gatsbyjs.svg"  /></code>
 <code><img height="32" alt="Nginx         " src="https://img.icons8.com/color/100/000000/nginx.svg"                         /></code>
-<code><img height="32" alt="Python3       " src="https://img.icons8.com/color/100/000000/python.svg"                        /></code>
+<code><img height="32" alt="Spring        " src="https://img.icons8.com/color/100/000000/spring-logo.svg"                   /></code>
+<code><img height="32" alt="Flask         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flask.svg"     /></code>
+<code><img height="32" alt="Django        " src="https://img.icons8.com/color/100/000000/django.svg"                        /></code>
+
+### ⚡ Android Application Development ⚡
+<code><img height="32" alt="Flutter       " src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"            /></code>
+<code><img height="32" alt="React Native  " src="https://img.icons8.com/color/100/000000/react-native.svg"                  /></code>
+<code><img height="32" alt="Kotlin        " src="https://img.icons8.com/color/100/000000/kotlin.svg"                        /></code>
+
+### ⚡ ML / AI ⚡
 <code><img height="32" alt="OpenCV        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"    /></code>
 <code><img height="32" alt="Tensorflow    " src="https://img.icons8.com/color/100/000000/tensorflow.svg"                    /></code>
 <code><img height="32" alt="Pytorch       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"   /></code>
-<code><img height="32" alt="Flask         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flask.svg"     /></code>
-<code><img height="32" alt="Django        " src="https://img.icons8.com/color/100/000000/django.svg"                        /></code>
-<code><img height="32" alt="MySQL         " src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"                    /></code>
-<code><img height="32" alt="MariaDB       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"   /></code>
-<code><img height="32" alt="MongoDB       " src="https://img.icons8.com/color/100/000000/mongodb.svg"                       /></code>
-<code><img height="32" alt="GraphQL       " src="https://img.icons8.com/color/100/000000/graphql.svg"                       /></code>
-<code><img height="32" alt="Dart Lang     " src="https://img.icons8.com/color/100/000000/dart.svg"                          /></code>
-<code><img height="32" alt="Flutter       " src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"            /></code>
-<code><img height="32" alt="Firebase      " src="https://img.icons8.com/color/100/000000/firebase.svg"                      /></code>
-<code><img height="32" alt="Docker        " src="https://img.icons8.com/color/100/000000/docker.svg"                        /></code>
-<code><img height="32" alt="Kubernetes    " src="https://img.icons8.com/color/100/000000/kubernetes.svg"                    /></code>
-<code><img height="32" alt="Red Hat Linux " src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"                  /></code>
+
+### BigData Analysis
+<code><img height="32" alt="Hadoop        " src="https://img.icons8.com/color/100/000000/hadoop-distributed-file-system.svg"/></code>
+<code><img height="32" alt="Hive          " src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"        /></code>
+<code><img height="32" alt="Apache Spark  " src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"      /></code>
+
+### ⚡ Configuration and Provision Management Tools ⚡
+<code><img height="32" alt="Jenkins       " src="https://img.icons8.com/color/100/000000/jenkins.svg"                       /></code>
+<code><img height="32" alt="OpenShift     " src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"            /></code>
 <code><img height="32" alt="Ansible       " src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"                /></code>
+<code><img height="32" alt="Terraform     " src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"        /></code>
+
+### ⚡ Containerization and Orchestration Management Tools ⚡
+<code><img height="32" alt="Docker        " src="https://img.icons8.com/color/100/000000/docker.svg"                        /></code>
+<code><img height="32" alt="Podman        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/podman.svg"    /></code>
+<code><img height="32" alt="Cri-O         " src="https://www.vectorlogo.zone/logos/cri-oio/cri-oio-icon.svg"                /></code>
+<code><img height="32" alt="Kubernetes    " src="https://img.icons8.com/color/100/000000/kubernetes.svg"                    /></code>
+
+### ⚡ Cloud Computing ⚡
 <code><img height="32" alt="AWS           " src="https://img.icons8.com/color/100/000000/amazon-web-services.svg"           /></code>
 <code><img height="32" alt="Google Cloud  " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gcp.svg"       /></code>
 <code><img height="32" alt="Azure         " src="https://img.icons8.com/color/100/000000/azure-1.svg"                       /></code>
 <code><img height="32" alt="Openstack     " src="https://img.icons8.com/color/100/000000/openstack.svg"                     /></code>
-<code><img height="32" alt="Hadoop        " src="https://img.icons8.com/color/100/000000/hadoop-distributed-file-system.svg"/></code>
-<code><img height="32" alt="Jenkins       " src="https://img.icons8.com/color/100/000000/jenkins.svg"                       /></code>
-<code><img height="32" alt="OpenShift     " src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"            /></code>
+
+### ⚡ Metrics and Log Monitoring ⚡
 <code><img height="32" alt="Prometheus    " src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"      /></code>
 <code><img height="32" alt="Grafana       " src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"                /></code>
 <code><img height="32" alt="Elastic Search" src="https://img.icons8.com/color/100/000000/elasticsearch.svg"                 /></code>
 <code><img height="32" alt="Logstash      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/logstash.svg"  /></code>
 <code><img height="32" alt="Kibana        " src="https://img.icons8.com/color/100/000000/kibana.svg"                        /></code>
-<code><img height="32" alt="Terraform     " src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"        /></code> -->
 
 ---
 
