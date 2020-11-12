@@ -23,8 +23,27 @@
 - 📫 How to reach me **DipadityaDas@gmail.com**
 - ⚡ Fun fact **I ❤ Kolkata Biriyani**
 
-### ⚡ Languages and Tools ⚡
+### ⚡ Languages ⚡
 
+### ⚡ SVM and VCS Tools ⚡
+
+### ⚡ IDEs and Text Editors ⚡
+
+### ⚡ Database Management Systems ⚡
+
+### ⚡ Full-Stack Web Development ⚡
+
+### ⚡ ML / AI ⚡
+
+### ⚡ Configuration and Provision Management Tools ⚡
+
+### ⚡ Containerization and Orchestration Management Tools ⚡
+
+### ⚡ Cloud Computing ⚡
+
+
+
+<!-- 
 <code><img height="32" alt="Git           " src="https://img.icons8.com/color/100/000000/git.svg"                           /></code>
 <code><img height="32" alt="Github        " src="https://img.icons8.com/fluent/100/000000/github.svg"                       /></code>
 <code><img height="32" alt="VSCode        " src="https://img.icons8.com/fluent/100/000000/visual-studio-code-2019.svg"      /></code>
@@ -70,7 +89,7 @@
 <code><img height="32" alt="Elastic Search" src="https://img.icons8.com/color/100/000000/elasticsearch.svg"                 /></code>
 <code><img height="32" alt="Logstash      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/logstash.svg"  /></code>
 <code><img height="32" alt="Kibana        " src="https://img.icons8.com/color/100/000000/kibana.svg"                        /></code>
-<code><img height="32" alt="Terraform     " src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"        /></code>
+<code><img height="32" alt="Terraform     " src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"        /></code> -->
 
 ---
 
