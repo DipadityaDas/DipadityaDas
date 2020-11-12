@@ -119,7 +119,7 @@
 <code><img height="30" alt="Azure         " src="https://img.icons8.com/color/100/000000/azure-1.svg"                       /></code>
 <code><img height="30" alt="Openstack     " src="https://img.icons8.com/color/100/000000/openstack.svg"                     /></code>
 
-### ⚡ Metrics and Log Monitoring ⚡
+#### Metrics and Log Monitoring
 
 <code><img height="30" alt="Prometheus    " src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"      /></code>
 <code><img height="30" alt="Grafana       " src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"                /></code>
