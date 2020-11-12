@@ -23,7 +23,7 @@
 - 📫 How to reach me **DipadityaDas@gmail.com**
 - ⚡ Fun fact **I ❤ Kolkata Biriyani**
 
-### ⚡ Languages ⚡
+#### Languages
 
 <code><img height="30" alt="C             " src="https://img.icons8.com/color/100/000000/c-programming.svg"                 /></code>
 <code><img height="30" alt="Cplusplus     " src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.svg"              /></code>
