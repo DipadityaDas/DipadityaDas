@@ -85,10 +85,11 @@
 #### Machine Learning and Artificial Intelligence
 
 <code><img height="30" alt="Numpy         " src="https://numpy.org/images/logos/numpy.svg"                                  /></code>
-<code><img height="30" alt="Pandas        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pandas.svg"    /></code>
+<code><img height="30" alt="Pandas        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Pandas.svg"    /></code>
 <code><img height="30" alt="OpenCV        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"    /></code>
 <code><img height="30" alt="Tensorflow    " src="https://img.icons8.com/color/100/000000/tensorflow.svg"                    /></code>
 <code><img height="30" alt="Pytorch       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"   /></code>
+<code><img height="30" alt="Keras         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/keras.svg"   /></code>
 
 ### ⚡ BigData Analysis ⚡
 
