@@ -97,7 +97,7 @@
 <code><img height="30" alt="Hive          " src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"        /></code>
 <code><img height="30" alt="Apache Spark  " src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg"      /></code>
 
-### ⚡ Configuration and Provision Management Tools ⚡
+#### Configuration and Provision Management Tools
 
 <code><img height="30" alt="Jenkins       " src="https://img.icons8.com/color/100/000000/jenkins.svg"                       /></code>
 <code><img height="30" alt="OpenShift     " src="https://www.vectorlogo.zone/logos/openshift/openshift-icon.svg"            /></code>
