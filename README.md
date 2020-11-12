@@ -91,7 +91,7 @@
 <code><img height="30" alt="Pytorch       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"   /></code>
 <code><img height="30" alt="Keras         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/keras.svg"   /></code>
 
-### ⚡ BigData Analysis ⚡
+#### BigData Analysis
 
 <code><img height="30" alt="Hadoop        " src="https://img.icons8.com/color/100/000000/hadoop-distributed-file-system.svg"/></code>
 <code><img height="30" alt="Hive          " src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg"        /></code>
