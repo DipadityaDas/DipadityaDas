@@ -76,7 +76,7 @@
 <code><img height="30" alt="Flask         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flask.svg"     /></code>
 <code><img height="30" alt="Django        " src="https://img.icons8.com/color/100/000000/django.svg"                        /></code>
 
-### ⚡ Android Application Development ⚡
+#### Android Application Development
 
 <code><img height="30" alt="Flutter       " src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"            /></code>
 <code><img height="30" alt="React Native  " src="https://img.icons8.com/color/100/000000/react-native.svg"                  /></code>
