@@ -64,7 +64,7 @@
 <code><img height="30" alt="GraphQL       " src="https://img.icons8.com/color/100/000000/graphql.svg"                         /></code>
 <code><img height="30" alt="Firebase      " src="https://img.icons8.com/color/100/000000/firebase.svg"                        /></code>
 
-### ⚡ Full-Stack Web Development ⚡
+#### Full-Stack Web Development
 
 <code><img height="30" alt="Html5         " src="https://img.icons8.com/color/100/000000/html-5.svg"                        /></code>
 <code><img height="30" alt="Css3          " src="https://img.icons8.com/color/100/000000/css3.svg"                          /></code>
