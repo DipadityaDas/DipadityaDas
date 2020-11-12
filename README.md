@@ -89,7 +89,7 @@
 <code><img height="30" alt="OpenCV        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"    /></code>
 <code><img height="30" alt="Tensorflow    " src="https://img.icons8.com/color/100/000000/tensorflow.svg"                    /></code>
 <code><img height="30" alt="Pytorch       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"   /></code>
-<code><img height="30" alt="Keras         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/keras.svg"   /></code>
+<code><img height="30" alt="Keras         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/keras.svg"     /></code>
 
 #### BigData Analysis
 
@@ -104,7 +104,7 @@
 <code><img height="30" alt="Ansible       " src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg"                /></code>
 <code><img height="30" alt="Terraform     " src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg"        /></code>
 
-### ⚡ Containerization and Orchestration Management Tools ⚡
+#### Containerization and Orchestration Management Tools
 
 <code><img height="30" alt="Containerd    " src="https://www.vectorlogo.zone/logos/containerdio/containerdio-icon.svg"      /></code>
 <code><img height="30" alt="Docker        " src="https://img.icons8.com/color/100/000000/docker.svg"                        /></code>
