@@ -112,7 +112,7 @@
 <code><img height="30" alt="Cri-O         " src="https://www.vectorlogo.zone/logos/cri-oio/cri-oio-icon.svg"                /></code>
 <code><img height="30" alt="Kubernetes    " src="https://img.icons8.com/color/100/000000/kubernetes.svg"                    /></code>
 
-### ⚡ Cloud Computing ⚡
+#### Cloud Computing Services
 
 <code><img height="30" alt="AWS           " src="https://img.icons8.com/color/100/000000/amazon-web-services.svg"           /></code>
 <code><img height="30" alt="Google Cloud  " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gcp.svg"       /></code>
