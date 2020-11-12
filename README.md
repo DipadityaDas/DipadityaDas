@@ -50,11 +50,11 @@
 <code><img height="30" alt="Red Hat Linux " src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"                  /></code>
 <code><img height="30" alt="CentOS 8      " src="https://img.icons8.com/color/100/000000/centos.png"                        /></code>
 <code><img height="30" alt="Ubuntu        " src="https://img.icons8.com/color/100/000000/ubuntu--v1.png"                    /></code>
-<code><img height="30" alt="Kali Linux    " src="https://img.icons8.com/color/100/000000/kali-linux.svg"                   /></code>
+<code><img height="30" alt="Kali Linux    " src="https://img.icons8.com/color/100/000000/kali-linux.svg"                    /></code>
 <code><img height="30" alt="Windows 10    " src="https://img.icons8.com/fluent/100/000000/windows-10.svg"                   /></code>
 <code><img height="30" alt="Android       " src="https://img.icons8.com/fluent/100/000000/android-os.svg"                   /></code>
 
-### ⚡ Database Management Systems ⚡
+#### Database Management Systems
 
 <code><img height="30" alt="MySQL         " src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"                      /></code>
 <code><img height="30" alt="MariaDB       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"     /></code>
