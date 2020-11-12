@@ -45,7 +45,7 @@
 <code><img height="30" alt="PyCharm IDE   " src="https://img.icons8.com/color/108/000000/pycharm.svg"                       /></code>
 <code><img height="30" alt="Sublime-Text  " src="https://img.icons8.com/fluent/100/000000/sublime-text.svg"                 /></code>
 
-### ⚡ Operating System ⚡
+#### Operating System
 
 <code><img height="30" alt="Red Hat Linux " src="https://www.vectorlogo.zone/logos/redhat/redhat-icon.svg"                  /></code>
 <code><img height="30" alt="CentOS 8      " src="https://img.icons8.com/color/100/000000/centos.png"                        /></code>
