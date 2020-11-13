@@ -107,11 +107,11 @@
 
 #### Containerization and Orchestration Management Tools
 
-<code><img height="32" alt="Containerd    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/containerd.svg"/></code>
-<code><img height="32" alt="Docker        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Docker.png"    /></code>
-<code><img height="32" alt="Podman        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/podman.svg"    /></code>
-<code><img height="32" alt="Cri-O         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/crio.svg"      /></code>
-<code><img height="32" alt="Kubernetes    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kubernetes.svg"/></code>
+<code><img height="38" alt="Containerd    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/containerd.svg"/></code>
+<code><img height="38" alt="Docker        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Docker.png"    /></code>
+<code><img height="38" alt="Podman        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/podman.svg"    /></code>
+<code><img height="38" alt="Cri-O         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/crio.svg"      /></code>
+<code><img height="38" alt="Kubernetes    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kubernetes.svg"/></code>
 
 #### Cloud Computing Services
 
@@ -133,6 +133,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [The Magic Of AWS CLI v2](https://medium.com/@dipadityadas/the-magic-of-aws-cli-v2-2b51df40c522?source=rss-78dbd39bd990------2)
 - [AWS!!! AWS!!! AWS!!!](https://medium.com/@dipadityadas/aws-aws-aws-8b5396a7730c?source=rss-78dbd39bd990------2)
 - [The World of “Big Data”](https://medium.com/@dipadityadas/the-world-of-big-data-e738fe725c93?source=rss-78dbd39bd990------2)
