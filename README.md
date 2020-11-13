@@ -86,11 +86,11 @@
 
 <code><img height="40" alt="Numpy        " src="https://numpy.org/images/logos/numpy.svg"                                                 /></code>
 <code><img height="40" alt="Pandas       " src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"                      /></code>
-<code><img height="40" alt="Scikit-Learn " src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"          /></code>
+<code><img height="36" alt="Scikit-Learn " src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"          /></code>
 <code><img height="40" alt="OpenCV       " src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"/></code>
-<code><img height="40" alt="Tensorflow   " src="https://numpy.org/images/content_images/arlib/tensorflow-logo.svg"                        /></code>
-<code><img height="40" alt="Pytorch      " src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg"               /></code>
-<code><img height="40" alt="Keras        " src="https://github.com/valohai/ml-logos/raw/master/keras-text.svg"                            /></code>
+<code><img height="36" alt="Tensorflow   " src="https://numpy.org/images/content_images/arlib/tensorflow-logo.svg"                        /></code>
+<code><img height="30" alt="Pytorch      " src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg"               /></code>
+<code><img height="34" alt="Keras        " src="https://github.com/valohai/ml-logos/raw/master/keras-text.svg"                            /></code>
 
 #### BigData Analysis
 
@@ -100,10 +100,10 @@
 
 #### Configuration and Provision Management Tools
 
-<code><img height="40" alt="Jenkins       " src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"            /></code>
-<code><img height="40" alt="OpenShift     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Openshift.png" /></code>
-<code><img height="40" alt="Ansible       " src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"      /></code>
-<code><img height="40" alt="Terraform     " src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg"    /></code>
+<code><img height="38" alt="Jenkins       " src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"            /></code>
+<code><img height="38" alt="OpenShift     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Openshift.png" /></code>
+<code><img height="40" alt="Ansible       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Ansible.svg"   /></code>
+<code><img height="38" alt="Terraform     " src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg"    /></code>
 
 #### Containerization and Orchestration Management Tools
 
@@ -120,7 +120,7 @@
 <code><img height="40" alt="Azure         " src="https://img.icons8.com/color/100/000000/azure-1.svg"                       /></code>
 <code><img height="40" alt="Openstack     " src="https://img.icons8.com/color/100/000000/openstack.svg"                     /></code>
 
-#### Metrics and Log Monitoring
+#### Metrics and Log Monitoring Tools
 
 <code><img height="40" alt="Prometheus    " src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"      /></code>
 <code><img height="40" alt="Grafana       " src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"                /></code>
