@@ -102,7 +102,7 @@
 
 <code><img height="38" alt="Jenkins       " src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"            /></code>
 <code><img height="38" alt="OpenShift     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Openshift.png" /></code>
-<code><img height="40" alt="Ansible       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Ansible.svg"   /></code>
+<code><img height="40" alt="Ansible       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"   /></code>
 <code><img height="38" alt="Terraform     " src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg"    /></code>
 
 #### Containerization and Orchestration Management Tools
