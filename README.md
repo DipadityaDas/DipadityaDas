@@ -111,7 +111,7 @@
 <code><img height="32" alt="Docker        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Docker.png"    /></code>
 <code><img height="32" alt="Podman        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/podman.svg"    /></code>
 <code><img height="32" alt="Cri-O         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/crio.svg"      /></code>
-<code><img height="32" alt="Kubernetes    " src="https://img.icons8.com/color/100/000000/kubernetes.svg"                    /></code>
+<code><img height="32" alt="Kubernetes    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kubernetes.svg"/></code>
 
 #### Cloud Computing Services
 
