@@ -101,13 +101,13 @@
 
 <code><img height="38" alt="Jenkins       " src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"            /></code>
 <code><img height="38" alt="OpenShift     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Openshift.png" /></code>
-<code><img height="40" alt="Ansible       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Ansible.jpg"   /></code>
+<code><img height="40" alt="Ansible       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"   /></code>
 <code><img height="38" alt="Terraform     " src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg"    /></code>
 
 #### Containerization and Orchestration Management Tools
 
 <code><img height="38" alt="Containerd    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/containerd.svg"/></code>
-<code><img height="38" alt="Docker        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Docker.png"    /></code>
+<code><img height="38" alt="Docker        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/docker.svg"    /></code>
 <code><img height="38" alt="Podman        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/podman.svg"    /></code>
 <code><img height="38" alt="Cri-O         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/crio.svg"      /></code>
 <code><img height="38" alt="Kubernetes    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kubernetes.svg"/></code>
