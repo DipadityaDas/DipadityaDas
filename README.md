@@ -101,7 +101,7 @@
 #### Configuration and Provision Management Tools
 
 <code><img height="40" alt="Jenkins       " src="https://www.vectorlogo.zone/logos/jenkins/jenkins-official.svg"            /></code>
-<code><img height="40" alt="OpenShift     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Openshift.svg" /></code>
+<code><img height="40" alt="OpenShift     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Openshift.png" /></code>
 <code><img height="40" alt="Ansible       " src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg"      /></code>
 <code><img height="40" alt="Terraform     " src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg"    /></code>
 
