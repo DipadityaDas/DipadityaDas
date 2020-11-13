@@ -83,7 +83,7 @@
 
 #### Machine Learning and Artificial Intelligence
 
-<code><img height="40" alt="Numpy        " src="https://numpy.org/images/logos/numpy.svg"                                                 /></code>
+<code><img height="40" alt="Numpy        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/numpy.svg"      /></code>
 <code><img height="40" alt="Pandas       " src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg"                      /></code>
 <code><img height="36" alt="Scikit-Learn " src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"          /></code>
 <code><img height="40" alt="OpenCV       " src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg"/></code>
