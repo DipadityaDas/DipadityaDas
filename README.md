@@ -108,7 +108,7 @@
 #### Containerization and Orchestration Management Tools
 
 <code><img height="40" alt="Containerd    " src="https://www.vectorlogo.zone/logos/containerdio/containerdio-icon.svg"      /></code>
-<code><img height="40" alt="Docker        " src="https://img.icons8.com/color/100/000000/docker.svg"                        /></code>
+<code><img height="40" alt="Docker        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Docker.png"    /></code>
 <code><img height="40" alt="Podman        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/podman.svg"    /></code>
 <code><img height="40" alt="Cri-O         " src="https://www.vectorlogo.zone/logos/cri-oio/cri-oio-icon.svg"                /></code>
 <code><img height="40" alt="Kubernetes    " src="https://img.icons8.com/color/100/000000/kubernetes.svg"                    /></code>
