@@ -133,7 +133,6 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [The Magic Of AWS CLI v2](https://medium.com/@dipadityadas/the-magic-of-aws-cli-v2-2b51df40c522?source=rss-78dbd39bd990------2)
 - [AWS!!! AWS!!! AWS!!!](https://medium.com/@dipadityadas/aws-aws-aws-8b5396a7730c?source=rss-78dbd39bd990------2)
 - [The World of “Big Data”](https://medium.com/@dipadityadas/the-world-of-big-data-e738fe725c93?source=rss-78dbd39bd990------2)
