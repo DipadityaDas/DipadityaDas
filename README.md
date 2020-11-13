@@ -47,9 +47,9 @@
 
 #### Operating System
 
-<code><img height="40" alt="Red Hat Linux " src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg"                  /></code>
-<code><img height="40" alt="CentOS 8      " src="https://www.vectorlogo.zone/logos/centos/centos-ar21.svg"                  /></code>
-<code><img height="40" alt="Ubuntu        " src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"                  /></code>
+<code><img height="40" alt="Red Hat Linux " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/RHEL8.png"     /></code>
+<code><img height="40" alt="CentOS 8      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/centos.svg"    /></code>
+<code><img height="40" alt="Ubuntu        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ubuntu.svg"    /></code>
 <code><img height="40" alt="Kali Linux    " src="https://img.icons8.com/color/100/000000/kali-linux.svg"                    /></code>
 <code><img height="40" alt="Windows 10    " src="https://img.icons8.com/fluent/100/000000/windows-10.svg"                   /></code>
 <code><img height="40" alt="Android       " src="https://img.icons8.com/fluent/100/000000/android-os.svg"                   /></code>
