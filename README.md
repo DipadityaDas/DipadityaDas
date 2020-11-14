@@ -10,7 +10,6 @@
 [<img src="https://img.icons8.com/fluent/100/000000/facebook-new.svg"              width="30">](https://www.facebook.com/dipaditya.das)
 [<img src="https://img.icons8.com/fluent/100/000000/instagram-new.svg"             width="30">](https://instagram.com/dipaditya_das/)
 [<img src="https://img.icons8.com/fluent/100/000000/gmail--v2.svg"                 width="30">](mailto:DipadityaDas@gmail.com)
-[<img src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/devto.svg"  width="30">](https://dev.to/dipadityadas)
 
 </div>
 
