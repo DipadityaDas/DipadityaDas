@@ -55,7 +55,7 @@
 #### Database Management Systems
 
 <code><img height="40" alt="MySQL         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mysql.svg"       /></code>
-<code><img height="40" alt="MariaDB       " src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"                  /></code>
+<code><img height="40" alt="MariaDB       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"     /></code>
 <code><img height="40" alt="PostgreSQL    " src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"            /></code>
 <code><img height="40" alt="Cassandra     " src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg"/></code>
 <code><img height="40" alt="MongoDB       " src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"                  /></code>
