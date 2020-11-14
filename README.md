@@ -33,7 +33,7 @@
 
 #### SVM and VCS Tools
 
-<code><img height="40" alt="Git           " src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"                /></code>
+<code><img height="40" alt="Git           " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/git.svg"       /></code>
 <code><img height="40" alt="Github        " src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"                  /></code>
 
 #### IDEs and Text Editors
