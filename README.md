@@ -49,7 +49,7 @@
 <code><img height="40" alt="Red Hat Linux " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/RHEL8.svg"     /></code>
 <code><img height="40" alt="CentOS 8      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/centos.svg"    /></code>
 <code><img height="40" alt="Kali Linux    " src="https://img.icons8.com/color/100/000000/kali-linux.svg"                    /></code>
-<code><img height="40" alt="Windows 10    " src="https://img.icons8.com/fluent/100/000000/windows-10.svg"                   /></code>
+<code><img height="40" alt="Windows 10    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Windows.svg"   /></code>
 <code><img height="40" alt="Android       " src="https://img.icons8.com/fluent/100/000000/android-os.svg"                   /></code>
 
 #### Database Management Systems
@@ -151,6 +151,8 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
+
+<img src="https://gpvc.arturio.dev/dipadityadas" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dipadityadas?style=social"/> 
 
 </div>
 
