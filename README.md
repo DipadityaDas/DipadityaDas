@@ -122,7 +122,7 @@
 
 <code><img height="40" alt="Prometheus    " src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg"      /></code>
 <code><img height="40" alt="Grafana       " src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"                /></code>
-<code><img height="40" alt="Elastic Search" src="https://img.icons8.com/color/100/000000/elasticsearch.svg"                 /></code>
+<code><img height="40" alt="Elastic Search" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/elasticsearch.svg"/></code>
 <code><img height="40" alt="Logstash      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/logstash.svg"  /></code>
 <code><img height="40" alt="Kibana        " src="https://img.icons8.com/color/100/000000/kibana.svg"                        /></code>
 
