@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="534px" height="100px" viewbox="0 0 534 100" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L533.333 0L533.333 100L0 100L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <path d="M0 0L533.333 0L533.333 100L0 100L0 0Z" id="Background" fill="none" fill-rule="evenodd" stroke="none" />
+</svg>
