@@ -115,7 +115,7 @@
 
 <code><img height="40" alt="AWS           " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/aws.svg"       /></code>
 <code><img height="40" alt="Google Cloud  " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gcp.svg"       /></code>
-<code><img height="40" alt="Azure         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/azure.svg"     /></code>
+<code><img height="40" alt="Azure         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/azuroe.svg"     /></code>
 <code><img height="40" alt="Openstack     " src="https://img.icons8.com/color/100/000000/openstack.svg"                     /></code>
 
 #### Metrics and Log Monitoring Tools
