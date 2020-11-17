@@ -105,7 +105,7 @@
 
 #### Containerization and Orchestration Management Tools
 
-<code><img height="40" alt="Containerd    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/containerd.svg"/></code>
+<code><img height="40" alt="Containerd   " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/containerd.svg"/></code>
 <code><img height="40" alt="Docker       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/docker.svg"    /></code>
 <code><img height="40" alt="Podman       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/podman.svg"    /></code>
 <code><img height="40" alt="Cri-O        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/crio.svg"      /></code>
