@@ -92,7 +92,7 @@
 
 #### BigData Analysis
 
-<code><img height="40" alt="Apache Hadoop " src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg"       /></code>
+<code><img height="40" alt="Apache Hadoop " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/hadoop.svg"    /></code>
 <code><img height="40" alt="Apache Hive   " src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Apache_Hive_logo.svg"  /></code>
 <code><img height="40" alt="Apache Spark  " src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" /></code>
 
