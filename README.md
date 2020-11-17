@@ -60,7 +60,7 @@
 <code><img height="40" alt="Cassandra     " src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-ar21.svg"/></code>
 <code><img height="40" alt="MongoDB       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mongodb.svg"     /></code>
 <code><img height="40" alt="GraphQL       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/graphql.svg"     /></code>
-<code><img height="40" alt="Firebase      " src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"                /></code>
+<code><img height="40" alt="Firebase      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/firebase.svg"    /></code>
 
 #### Full-Stack Web Development
 
