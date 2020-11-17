@@ -66,7 +66,7 @@
 
 <code><img height="40" alt="Html5         " src="https://img.icons8.com/color/100/000000/html-5.svg"                        /></code>
 <code><img height="40" alt="Css3          " src="https://img.icons8.com/color/100/000000/css3.svg"                          /></code>
-<code><img height="40" alt="NodeJS        " src="https://img.icons8.com/color/100/000000/nodejs.svg"                        /></code>
+<code><img height="40" alt="NodeJS       " src="https://img.icons8.com/color/100/000000/nodejs.svg"                        /></code>
 <code><img height="40" alt="ReactJS      " src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"                /></code>
 <code><img height="40" alt="AngularJS    " src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"                /></code>
 <code><img height="40" alt="Nginx        " src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"                    /></code>
