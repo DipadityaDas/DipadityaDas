@@ -98,7 +98,7 @@
 
 #### Configuration and Provision Management Tools
 
-<code><img height="40" alt="Jenkins       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/jenkins.svg"   /></code>
+<code><img height="40" alt="Jenkins      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/jenkins.svg"   /></code>
 <code><img height="40" alt="OpenShift    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openshift.svg" /></code>
 <code><img height="40" alt="Ansible      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"   /></code>
 <code><img height="40" alt="Terraform    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/terraform.svg" /></code>
