@@ -57,7 +57,7 @@
 <code><img height="40" alt="MySQL        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mysql.svg"       /></code>
 <code><img height="40" alt="MariaDB      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"     /></code>
 <code><img height="40" alt="PostgreSQL   " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/postgresql.svg"  /></code>
-<code><img height="40" alt="Cassandra    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/cassandra.svg"   /></code>
+<code><img height="40" alt="Cassandra    " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/cassandra.svg" /></code>
 <code><img height="40" alt="MongoDB      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mongodb.svg"   /></code>
 <code><img height="40" alt="GraphQL      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/graphql.svg"   /></code>
 <code><img height="40" alt="Firebase     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/firebase.svg"  /></code>
