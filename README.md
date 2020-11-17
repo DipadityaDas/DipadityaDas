@@ -76,7 +76,7 @@
 
 #### Android Application Development
 
-<code><img height="40" alt="Flutter       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flutter.png"   /></code>
+<code><img height="40" alt="Flutter       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flutter.svg"   /></code>
 <code><img height="40" alt="React Native  " src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"                /></code>
 <code><img height="40" alt="Kotlin        " src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"          /></code>
 
