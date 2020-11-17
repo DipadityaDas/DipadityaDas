@@ -50,7 +50,7 @@
 <code><img height="40" alt="CentOS 8     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/centos.svg"    /></code>
 <code><img height="40" alt="Kali Linux   " src="https://img.icons8.com/color/100/000000/kali-linux.svg"                    /></code>
 <code><img height="40" alt="Windows 10   " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Windows.svg"   /></code>
-<code><img height="40" alt="Android       " src="https://img.icons8.com/fluent/100/000000/android-os.svg"                   /></code>
+<code><img height="40" alt="Android      " src="https://img.icons8.com/fluent/100/000000/android-os.svg"                   /></code>
 
 #### Database Management Systems
 
