@@ -113,10 +113,10 @@
 
 #### Cloud Computing Services
 
-<code><img height="40" alt="AWS         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/aws.svg"       /></code>
-<code><img height="40" alt="Google Cloud" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gcp.svg"       /></code>
-<code><img height="40" alt="Azure       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/azure.svg"     /></code>
-<code><img height="40" alt="Openstack   " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openstack.svg" /></code>
+<code><img height="40" alt="AWS         " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/aws.svg"      /></code>
+<code><img height="40" alt="Google Cloud" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gcp.svg"      /></code>
+<code><img height="40" alt="Azure       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/azure.svg"    /></code>
+<code><img height="40" alt="Openstack   " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openstack.svg"/></code>
 
 #### Metrics and Log Monitoring Tools
 
