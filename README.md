@@ -39,10 +39,10 @@
 #### IDEs and Text Editors
 
 <code><img height="40" title="Visual Studio Code" alt="VSCode"        src="https://img.icons8.com/fluent/100/000000/visual-studio-code-2019.svg"/></code>
-<code><img height="40" title="Visual Studio"      alt="Visual Studio" src="https://img.icons8.com/fluent/100/000000/visual-studio-2019.svg"/></code>
-<code><img height="40" title="Intellij IDEA"      alt="Intellij-Idea" src="https://img.icons8.com/color/100/000000/intellij-idea.svg"/></code>
-<code><img height="40" title="PyCharm IDE"        alt="PyCharm IDE"   src="https://img.icons8.com/color/100/000000/pycharm.svg"/></code>
-<code><img height="40" title="Sublime Text"       alt="Sublime-Text"  src="https://img.icons8.com/fluent/100/000000/sublime-text.svg"/></code>
+<code><img height="40" title="Visual Studio"      alt="Visual Studio" src="https://img.icons8.com/fluent/100/000000/visual-studio-2019.svg"     /></code>
+<code><img height="40" title="Intellij IDEA"      alt="Intellij-Idea" src="https://img.icons8.com/color/100/000000/intellij-idea.svg"           /></code>
+<code><img height="40" title="PyCharm IDE"        alt="PyCharm IDE"   src="https://img.icons8.com/color/100/000000/pycharm.svg"                 /></code>
+<code><img height="40" title="Sublime Text"       alt="Sublime-Text"  src="https://img.icons8.com/fluent/100/000000/sublime-text.svg"           /></code>
 
 #### Operating System
 
