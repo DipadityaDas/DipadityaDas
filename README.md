@@ -93,7 +93,7 @@
 #### BigData Analysis
 
 <code><img height="40" title="Apache Hadoop" alt="Apache Hadoop" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/hadoop.svg"/></code>
-<code><img height="40" alt="Apache Hive" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/hive.svg"/></code>
+<code><img height="40" title="Apache Hive" alt="Apache Hive" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/hive.svg"/></code>
 <code><img height="40" alt="Apache Spark" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/spark.svg"/></code>
 
 #### Configuration and Provision Management Tools
