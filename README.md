@@ -59,7 +59,7 @@
 <code><img height="40" title="PostgreSQL" alt="PostgreSQL" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/postgresql.svg"/></code>
 <code><img height="40" title="Cassandra" alt="Cassandra" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/cassandra.svg"/></code>
 <code><img height="40" title="MongoDB" alt="MongoDB" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mongodb.svg"/></code>
-<code><img height="40" alt="GraphQL" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/graphql.svg"   /></code>
+<code><img height="40" alt="GraphQL" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/graphql.svg"/></code>
 <code><img height="40" alt="Firebase     " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/firebase.svg"  /></code>
 
 #### Full-Stack Web Development
