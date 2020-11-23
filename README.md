@@ -85,7 +85,7 @@
 <code><img height="40" alt="NumPy" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/numpy.svg"/></code>
 <code><img height="40" alt="Pandas" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pandas.svg"/></code>
 <code><img height="40" alt="Scikit-Learn" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/scikit.svg"/></code>
-<code><img height="40" alt="OpenCV       " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"    /></code>
+<code><img height="40" alt="OpenCV" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"/></code>
 <code><img height="40" alt="Tensorflow   " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/tensorflow.svg"/></code>
 <code><img height="40" alt="PyTorch      " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"   /></code>
 <code><img height="40" alt="Keras        " src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/keras.svg"     /></code>
