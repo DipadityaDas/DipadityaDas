@@ -72,7 +72,7 @@
 <code><img height="40" alt="Nginx" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"/></code>
 <code><img height="40" alt="Spring" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/></code>
 <code><img height="40" alt="Flask" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"/></code>
-<code><img height="40" alt="Django" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"    /></code>
+<code><img height="40" alt="Django" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/></code>
 
 #### Android Application Development
 
