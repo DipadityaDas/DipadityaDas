@@ -107,7 +107,7 @@
 
 <code><img height="40" title="Containerd" alt="Containerd" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/containerd.svg"/></code>
 <code><img height="40" title="Docker" alt="Docker" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/docker.svg"/></code>
-<code><img height="40" alt="Podman" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/podman.svg"/></code>
+<code><img height="40" title="Podman" alt="Podman" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/podman.svg"/></code>
 <code><img height="40" alt="Cri-O" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/crio.svg"/></code>
 <code><img height="40" alt="Kubernetes" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kubernetes.svg"/></code>
 
