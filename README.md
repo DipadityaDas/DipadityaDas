@@ -46,7 +46,7 @@
 
 #### Operating System
 
-<code><img height="40" title="Red Hat Linux 8" alt="Red Hat Linux" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/RHEL8.svg"  /></code>
+[ <img height="40" title="Red Hat Linux 8" alt="Red Hat Linux" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/RHEL8.svg"/> ]()
 <code><img height="40" title="CentOS 8"        alt="CentOS 8"      src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/centos.svg" /></code>
 <code><img height="40" title="Kali Linux"      alt="Kali Linux"    src="https://img.icons8.com/color/100/000000/kali-linux.svg"                 /></code>
 <code><img height="40" title="Windows 10"      alt="Windows 10"    src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Windows.svg"/></code>
