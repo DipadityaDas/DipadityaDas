@@ -28,7 +28,7 @@
 [ <img height="40" title="C++"           alt="C++"        src="https://img.icons8.com/color/100/000000/c-plus-plus-logo.svg"/> ]()
 [ <img height="40" title="Java"          alt="Java"       src="https://img.icons8.com/color/100/000000/java-coffee-cup-logo.svg"/> ]()
 [ <img height="40" title="Python3"       alt="Python3"    src="https://img.icons8.com/color/100/000000/python.svg"/> ]()
-<code><img height="40" title="JavaScript"    alt="JavaScript" src="https://img.icons8.com/color/100/000000/javascript.svg"          /></code>
+[ <img height="40" title="JavaScript"    alt="JavaScript" src="https://img.icons8.com/color/100/000000/javascript.svg"/> ]()
 <code><img height="40" title="Dart Language" alt="Dart Lang"  src="https://img.icons8.com/color/100/000000/dart.svg"                /></code>
 
 #### SVM and VCS Tools
