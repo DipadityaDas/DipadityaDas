@@ -77,7 +77,7 @@
 #### Android Application Development
 
 [ <img height="40" title="Flutter"      alt="Flutter"      src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/flutter.svg"/> ]()
-<code><img height="40" title="React Native" alt="React Native" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/react.svg"  /></code>
+[ <img height="40" title="React Native" alt="React Native" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/react.svg"  /> ]()
 <code><img height="40" title="Kotlin"       alt="Kotlin"       src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kotlin.svg" /></code>
 
 #### Machine Learning and Artificial Intelligence
