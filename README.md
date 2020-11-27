@@ -69,7 +69,7 @@
 [ <img height="40" title="NodeJS"    alt="NodeJS"    src="https://img.icons8.com/color/100/000000/nodejs.svg"/> ]()
 [ <img height="40" title="ReactJS"   alt="ReactJS"   src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/> ]()
 [ <img height="40" title="AngularJS" alt="AngularJS" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"/> ]()
-<code><img height="40" title="Nginx"     alt="Nginx"     src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"                /></code>
+[ <img height="40" title="Nginx"     alt="Nginx"     src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"/> ]()
 <code><img height="40" title="Springio"  alt="Spring"    src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"          /></code>
 <code><img height="40" title="Flask"     alt="Flask"     src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"    /></code>
 <code><img height="40" title="Django"    alt="Django"    src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/></code>
