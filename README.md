@@ -8,7 +8,7 @@
 [ <img src="https://img.icons8.com/fluent/100/000000/twitter.svg"       width="30"> ](https://twitter.com/dipadityadas)
 [ <img src="https://img.icons8.com/fluent/100/000000/linkedin.svg"      width="30"> ](https://linkedin.com/in/DipadityaDas)
 [ <img src="https://img.icons8.com/fluent/100/000000/facebook-new.svg"  width="30"> ](https://www.facebook.com/dipaditya.das)
-[<img src="https://img.icons8.com/fluent/100/000000/instagram-new.svg" width="30">](https://instagram.com/dipaditya_das/)
+[ <img src="https://img.icons8.com/fluent/100/000000/instagram-new.svg" width="30"> ](https://instagram.com/dipaditya_das/)
 [<img src="https://img.icons8.com/fluent/100/000000/gmail--v2.svg"     width="30">](mailto:DipadityaDas@gmail.com)
 
 </div>
