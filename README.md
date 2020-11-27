@@ -64,7 +64,7 @@
 
 #### Full-Stack Web Development
 
-<code><img height="40" title="HTML5"     alt="Html5"     src="https://img.icons8.com/color/100/000000/html-5.svg"                    /></code>
+[ <img height="40" title="HTML5"     alt="Html5"     src="https://img.icons8.com/color/100/000000/html-5.svg"/> ]()
 <code><img height="40" title="CSS3"      alt="Css3"      src="https://img.icons8.com/color/100/000000/css3.svg"                      /></code>
 <code><img height="40" title="NodeJS"    alt="NodeJS"    src="https://img.icons8.com/color/100/000000/nodejs.svg"                    /></code>
 <code><img height="40" title="ReactJS"   alt="ReactJS"   src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"            /></code>
