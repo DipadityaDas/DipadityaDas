@@ -101,7 +101,7 @@
 [ <img height="40" title="Jenkins"   alt="Jenkins"   src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/jenkins.svg"  /> ]()
 [ <img height="40" title="OpenShift" alt="OpenShift" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openshift.svg"/> ]()
 [ <img height="40" title="Ansible"   alt="Ansible"   src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"  /> ]()
-<code><img height="40" title="Terraform" alt="Terraform" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/terraform.svg"/></code>
+[ <img height="40" title="Terraform" alt="Terraform" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/terraform.svg"/> ]()
 
 #### Containerization and Orchestration Management Tools
 
