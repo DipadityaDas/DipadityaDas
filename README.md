@@ -108,7 +108,7 @@
 [ <img height="40" title="Containerd" alt="Containerd" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/containerd.svg"/> ]()
 [ <img height="40" title="Docker"     alt="Docker"     src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/docker.svg"    /> ]()
 [ <img height="40" title="Podman"     alt="Podman"     src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/podman.svg"    /> ]()
-<code><img height="40" title="Cri-O"      alt="Cri-O"      src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/crio.svg"      /></code>
+[ <img height="40" title="Cri-O"      alt="Cri-O"      src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/crio.svg"      /> ]()
 <code><img height="40" title="Kubernetes" alt="Kubernetes" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kubernetes.svg"/></code>
 
 #### Cloud Computing Services
