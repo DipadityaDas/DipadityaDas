@@ -49,7 +49,7 @@
 [ <img height="40" title="Red Hat Linux 8" alt="Red Hat Linux" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/RHEL8.svg"  /> ](https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux)
 [ <img height="40" title="CentOS 8"        alt="CentOS 8"      src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/centos.svg" /> ](https://www.centos.org/)
 [ <img height="40" title="Kali Linux"      alt="Kali Linux"    src="https://img.icons8.com/color/100/000000/kali-linux.svg"                 /> ](https://www.kali.org/)
-[ <img height="40" title="Windows 10"      alt="Windows 10"    src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Windows.svg"/> ]()
+[ <img height="40" title="Windows 10"      alt="Windows 10"    src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/Windows.svg"/> ](https://www.microsoft.com/en-in/windows)
 [ <img height="40" title="Android OS"      alt="Android"       src="https://img.icons8.com/fluent/100/000000/android-os.svg"                /> ]()
 
 #### Database Management Systems
