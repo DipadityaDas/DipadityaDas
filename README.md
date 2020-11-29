@@ -57,7 +57,7 @@
 [ <img height="40" title="MySQL"      alt="MySQL"      src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mysql.svg"     /> ]()
 [ <img height="40" title="MariaDB"    alt="MariaDB"    src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mariadb.svg"   /> ]()
 [ <img height="40" title="PostgreSQL" alt="PostgreSQL" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/postgresql.svg"/> ]()
-[ <img height="40" title="Cassandra"  alt="Cassandra"  src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/cassandra.svg"/> ]()
+[ <img height="40" title="Cassandra"  alt="Cassandra"  src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/cassandra.svg" /> ]()
 [ <img height="40" title="MongoDB"    alt="MongoDB"    src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/mongodb.svg"/> ]()
 [ <img height="40" title="GraphQL"    alt="GraphQL"    src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/graphql.svg"/> ]()
 [ <img height="40" title="Firebase"   alt="Firebase"   src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/firebase.svg"/> ]()
