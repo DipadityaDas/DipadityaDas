@@ -71,8 +71,8 @@
 [ <img height="40" title="AngularJS" alt="AngularJS" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"            /> ](https://angularjs.org/)
 [ <img height="40" title="Nginx"     alt="Nginx"     src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"                /> ](https://www.nginx.com/)
 [ <img height="40" title="Springio"  alt="Spring"    src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"          /> ](https://spring.io/)
-[ <img height="40" title="Flask"     alt="Flask"     src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"    /> ](https://flask.palletsprojects.com/en/1.1.x/)
-[ <img height="40" title="Django"    alt="Django"    src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> ]()
+[ <img height="40" title="Flask"     alt="Flask"     src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"    /> ](https://palletsprojects.com/p/flask/)
+[ <img height="40" title="Django"    alt="Django"    src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> ](https://www.djangoproject.com/)
 
 #### Android Application Development
 
