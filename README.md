@@ -87,7 +87,7 @@
 [ <img height="40" title="Scikit-Learn" alt="Scikit-Learn" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/scikit.svg"/> ](https://scikit-learn.org/stable/)
 [ <img height="40" title="OpenCV"       alt="OpenCV"       src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"/> ](https://opencv.org/)
 [ <img height="40" title="TensorFlow"   alt="Tensorflow"   src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/tensorflow.svg"/> ](https://www.tensorflow.org/)
-[ <img height="40" title="PyTorch"      alt="PyTorch"      src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"/> ]()
+[ <img height="40" title="PyTorch"      alt="PyTorch"      src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"/> ](https://pytorch.org/)
 [ <img height="40" title="Keras"        alt="Keras"        src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/keras.svg"/> ]()
 
 #### BigData Analysis
