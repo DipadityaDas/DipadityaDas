@@ -113,7 +113,7 @@
 
 #### Cloud Computing Services
 
-[ <img height="40" title="Amazon Web Service"    alt="AWS"       src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/aws.svg"      /> ]()
+[ <img height="40" title="Amazon Web Service"    alt="AWS"       src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/aws.svg"      /> ](https://aws.amazon.com/)
 [ <img height="40" title="Google Cloud Platform" alt="GCP"       src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/gcp.svg"      /> ]()
 [ <img height="40" title="Microsoft Azure"       alt="Azure"     src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/azure.svg"    /> ]()
 [ <img height="40" title="Openstack"             alt="Openstack" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openstack.svg"/> ]()
