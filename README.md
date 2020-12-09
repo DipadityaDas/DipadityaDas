@@ -34,7 +34,7 @@
 #### SVM and VCS Tools
 
 [ <img height="40" title="Git"    alt="Git"    src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/git.svg"   /> ](https://git-scm.com/)
-[ <img height="40" title="GitHub" alt="GitHub" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/github.svg"/> ](https://github.com/)
+[ <img height="40" title="GitHub" alt="GitHub" src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/github.svg"/> ](https://github.com/)
 
 #### IDEs and Text Editors
 
