@@ -78,7 +78,7 @@
 
 [ <img height="40" title="Flutter"      alt="Flutter"      src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/flutter.svg"/> ](https://flutter.dev/)
 [ <img height="40" title="React Native" alt="React Native" src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/react.svg"  /> ](https://reactnative.dev/)
-[ <img height="40" title="Kotlin"       alt="Kotlin"       src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/kotlin.svg" /> ](https://kotlinlang.org/)
+[ <img height="40" title="Kotlin"       alt="Kotlin"       src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/kotlin.svg" /> ](https://kotlinlang.org/)
 
 #### Machine Learning and Artificial Intelligence
 
