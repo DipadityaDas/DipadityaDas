@@ -82,7 +82,7 @@
 
 #### Machine Learning and Artificial Intelligence
 
-[ <img height="40" title="NumPy"        alt="NumPy"        src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/numpy.svg"     /> ](https://numpy.org/)
+[ <img height="40" title="NumPy"        alt="NumPy"        src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/numpy.svg"     /> ](https://numpy.org/)
 [ <img height="40" title="Pandas"       alt="Pandas"       src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pandas.svg"    /> ](https://pandas.pydata.org/)
 [ <img height="40" title="Scikit-Learn" alt="Scikit-Learn" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/scikit.svg"    /> ](https://scikit-learn.org/stable/)
 [ <img height="40" title="OpenCV"       alt="OpenCV"       src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"    /> ](https://opencv.org/)
