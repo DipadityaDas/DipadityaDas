@@ -84,7 +84,7 @@
 
 [ <img height="40" title="NumPy"        alt="NumPy"        src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/numpy.svg"     /> ](https://numpy.org/)
 [ <img height="40" title="Pandas"       alt="Pandas"       src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/pandas.svg"    /> ](https://pandas.pydata.org/)
-[ <img height="40" title="Scikit-Learn" alt="Scikit-Learn" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/scikit.svg"    /> ](https://scikit-learn.org/stable/)
+[ <img height="40" title="Scikit-Learn" alt="Scikit-Learn" src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/scikit.svg"    /> ](https://scikit-learn.org/stable/)
 [ <img height="40" title="OpenCV"       alt="OpenCV"       src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/opencv.svg"    /> ](https://opencv.org/)
 [ <img height="40" title="TensorFlow"   alt="Tensorflow"   src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/tensorflow.svg"/> ](https://www.tensorflow.org/)
 [ <img height="40" title="PyTorch"      alt="PyTorch"      src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/pytorch.svg"   /> ](https://pytorch.org/)
