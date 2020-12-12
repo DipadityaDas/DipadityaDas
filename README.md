@@ -120,7 +120,7 @@
 
 #### Metrics and Log Monitoring Tools
 
-[ <img height="40" title="Prometheus"    alt="Prometheus"    src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/prometheus.svg"   /> ](https://prometheus.io/)
+[ <img height="40" title="Prometheus"    alt="Prometheus"    src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/prometheus.svg"   /> ](https://prometheus.io/)
 [ <img height="40" title="Grafana"       alt="Grafana"       src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/grafana.svg"      /> ](https://grafana.com/)
 [ <img height="40" title="ElasticSearch" alt="Elasticsearch" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/elasticsearch.svg"/> ](https://www.elastic.co/elasticsearch/)
 [ <img height="40" title="Logstash"      alt="Logstash"      src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/logstash.svg"     /> ](https://www.elastic.co/logstash)
