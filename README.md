@@ -116,7 +116,7 @@
 [ <img height="40" title="Amazon Web Service"    alt="AWS"       src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/aws.svg"      /> ](https://aws.amazon.com/)
 [ <img height="40" title="Google Cloud Platform" alt="GCP"       src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/gcp.svg"      /> ](https://cloud.google.com/)
 [ <img height="40" title="Microsoft Azure"       alt="Azure"     src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/azure.svg"    /> ](https://azure.microsoft.com/en-in/)
-[ <img height="40" title="Openstack"             alt="Openstack" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openstack.svg"/> ](https://www.openstack.org/)
+[ <img height="40" title="Openstack"             alt="Openstack" src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/openstack.svg"/> ](https://www.openstack.org/)
 
 #### Metrics and Log Monitoring Tools
 
