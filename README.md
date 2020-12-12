@@ -94,7 +94,7 @@
 
 [ <img height="40" title="Apache Hadoop" alt="Apache Hadoop" src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/hadoop.svg"/> ](https://hadoop.apache.org/)
 [ <img height="40" title="Apache Hive"   alt="Apache Hive"   src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/hive.svg"  /> ](https://hive.apache.org/)
-[ <img height="40" title="Apache Spark"  alt="Apache Spark"  src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/spark.svg" /> ](https://spark.apache.org/)
+[ <img height="40" title="Apache Spark"  alt="Apache Spark"  src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/spark.svg" /> ](https://spark.apache.org/)
 
 #### Configuration and Provision Management Tools
 
