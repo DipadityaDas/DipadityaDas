@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[ <img src="https://img.icons8.com/color/100/000000/medium-logo.svg"    width="30"> ](https://dipadityadas.medium.com/)
+[ <img src="https://img.icons8.com/ios-glyphs/100/26e07f/medium-monogram.svg"    width="30"> ](https://dipadityadas.medium.com/)
 [ <img src="https://img.icons8.com/fluent/100/000000/twitter.svg"       width="30"> ](https://twitter.com/dipadityadas)
 [ <img src="https://img.icons8.com/fluent/100/000000/linkedin.svg"      width="30"> ](https://linkedin.com/in/DipadityaDas)
 [ <img src="https://img.icons8.com/fluent/100/000000/facebook-new.svg"  width="30"> ](https://www.facebook.com/dipaditya.das)
