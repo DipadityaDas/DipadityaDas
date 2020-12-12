@@ -99,7 +99,7 @@
 #### Configuration and Provision Management Tools
 
 [ <img height="40" title="Jenkins"   alt="Jenkins"   src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/jenkins.svg"  /> ](https://www.jenkins.io/)
-[ <img height="40" title="OpenShift" alt="OpenShift" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/openshift.svg"/> ](https://www.openshift.com/)
+[ <img height="40" title="OpenShift" alt="OpenShift" src="https://raw.githubusercontent.com/DipadityaDas/DipadityaDas/master/img/openshift.svg"/> ](https://www.openshift.com/)
 [ <img height="40" title="Ansible"   alt="Ansible"   src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/ansible.svg"  /> ](https://www.ansible.com/)
 [ <img height="40" title="Terraform" alt="Terraform" src="https://github.com/DipadityaDas/DipadityaDas/raw/master/img/terraform.svg"/> ](https://www.terraform.io/)
 
