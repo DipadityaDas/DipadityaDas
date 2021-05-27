@@ -131,11 +131,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploy Machine Learning Model on Docker](https://dipadityadas.medium.com/deploy-machine-learning-model-on-docker-6685fd9f401d?source=rss-78dbd39bd990------2)
 - [Configuring Httpd Server and Setting up Python Interpreter and run it on Docker Containers](https://dipadityadas.medium.com/configuring-httpd-server-and-setting-up-python-interpreter-and-run-it-on-docker-containers-258675a48016?source=rss-78dbd39bd990------2)
 - [Understanding Route Table](https://dipadityadas.medium.com/understanding-route-table-377ca5f7fa4c?source=rss-78dbd39bd990------2)
 - [How Kubernetes Used In Industries and its Use-Cases](https://dipadityadas.medium.com/how-kubernetes-used-in-industries-and-its-use-cases-bf590c2f86c9?source=rss-78dbd39bd990------2)
 - [The Magic Of AWS CLI v2](https://dipadityadas.medium.com/the-magic-of-aws-cli-v2-2b51df40c522?source=rss-78dbd39bd990------2)
-- [AWS!!! AWS!!! AWS!!!](https://dipadityadas.medium.com/aws-aws-aws-8b5396a7730c?source=rss-78dbd39bd990------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [More blog posts...](https://dipadityadas.medium.com/)
