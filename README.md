@@ -131,7 +131,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy Machine Learning Model on Docker](https://medium.com/swlh/deploy-machine-learning-model-on-docker-6685fd9f401d?source=rss-78dbd39bd990------2)
+- [Deploy Machine Learning Model on Docker](https://medium.com/geekculture/deploy-machine-learning-model-on-docker-6685fd9f401d?source=rss-78dbd39bd990------2)
 - [Configuring Httpd Server and Setting up Python Interpreter and run it on Docker Containers](https://dipadityadas.medium.com/configuring-httpd-server-and-setting-up-python-interpreter-and-run-it-on-docker-containers-258675a48016?source=rss-78dbd39bd990------2)
 - [Understanding Route Table](https://dipadityadas.medium.com/understanding-route-table-377ca5f7fa4c?source=rss-78dbd39bd990------2)
 - [How Kubernetes Used In Industries and its Use-Cases](https://dipadityadas.medium.com/how-kubernetes-used-in-industries-and-its-use-cases-bf590c2f86c9?source=rss-78dbd39bd990------2)
