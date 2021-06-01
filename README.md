@@ -131,7 +131,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Run A GUI Software inside a Docker Container](https://medium.com/geekculture/run-a-gui-software-inside-a-docker-container-dce61771f9?source=rss-78dbd39bd990------2)
+- [Run A GUI Software inside a Docker Container](https://dipadityadas.medium.com/run-a-gui-software-inside-a-docker-container-dce61771f9?source=rss-78dbd39bd990------2)
 - [Integration of LVM with Hadoop Cluster and providing Elasticity to DataNode Storage](https://medium.com/geekculture/integration-of-lvm-with-hadoop-cluster-and-providing-elasticity-to-datanode-storage-6beb70513f3?source=rss-78dbd39bd990------2)
 - [Deploy Machine Learning Model on Docker](https://medium.com/geekculture/deploy-machine-learning-model-on-docker-6685fd9f401d?source=rss-78dbd39bd990------2)
 - [Configuring Httpd Server and Setting up Python Interpreter and run it on Docker Containers](https://medium.com/geekculture/configuring-httpd-server-and-setting-up-python-interpreter-and-run-it-on-docker-containers-258675a48016?source=rss-78dbd39bd990------2)
