@@ -142,20 +142,4 @@
 
 ---
 
-### 🚀 GitHub Stats 🚀
-
-<div align="center">
-<img alt="Dipaditya Das GitHub Stats" src="https://github-readme-stats-5i0uvjfd7.vercel.app/api?username=dipadityadas&theme=radical&hide=prs&show_icons=true&hide_border=true&include_all_commits=true&cache_seconds=60&text_color=a9fef7&icon_color=f8d847"/>
-<img alt="Top Laanguages Used" src="https://github-readme-stats.dipadityadas.vercel.app/api/top-langs/?username=dipadityadas&layout=compact&theme=radical&hide_border=true&cache_seconds=1800&langs_count=8">
-</div>
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-<img src="https://gpvc.arturio.dev/dipadityadas" alt="profile views"/>  <img alt="GitHub followers" src="https://img.shields.io/github/followers/dipadityadas?style=social"/> 
-
-</div>
-
----
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
