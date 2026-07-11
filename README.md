@@ -7,7 +7,7 @@ Hi there 👋 I'm Dipaditya Das
 </h1>
 
 <h3 align="center">
-Cloud Architect • Platform Engineer • RHCA • AI Engineer
+Sr. Cloud Architect • Platform Engineer • RHCA • AI Engineer
 </h3>
 
 <h4 align="center">
