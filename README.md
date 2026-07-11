@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Dipaditya Das</h1>
 
 <h3 align="center">
-Cloud Architect • Platform Engineer • RHCA • AI Engineer
+Senior Cloud Architect • Platform Engineer • RHCA Level 6 • AI Engineer
 </h3>
 
 <h4 align="center">
@@ -238,47 +238,8 @@ toolkit.
 
 ---
 
-# 📈 GitHub Dashboard
 
-<table>
-
-<tr>
-
-<td>
-
-Repositories
-
-⭐ Enterprise Projects
-
-☁ Cloud
-
-🤖 AI
-
-☸ Kubernetes
-
-</td>
-
-<td>
-
-Languages
-
-Python
-
-Java
-
-Go
-
-TypeScript
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 > *Building reliable cloud platforms through automation, architecture, and intelligent engineering.*
 
 ---
-````
