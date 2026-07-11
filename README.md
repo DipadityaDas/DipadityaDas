@@ -10,11 +10,11 @@ Hi there 👋 I'm Dipaditya Das
 Cloud Architect • Platform Engineer • RHCA • AI Engineer
 </h3>
 
-<p align="center">
+<h4 align="center">
 
 Curiosity drives code • Discipline drives architecture • Passion fuels every commit
 
-</p>
+</h4>
 
 <p align="center">
 
