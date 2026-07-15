@@ -171,11 +171,11 @@ As a lifelong learner and active contributor to the technology community, I am p
 
 ```text
 ┌───────────────────────────────┬───────────────────────────────┐
-│ 🚀 Build for Scale            │ ⚙️ Automate Relentlessly      │
+│ 🚀 Build for Scale           │ ⚙️ Automate Relentlessly      │
 ├───────────────────────────────┼───────────────────────────────┤
-│ 🔒 Secure by Design           │ 📊 Observe & Optimize         │
+│ 🔒 Secure by Design          │ 📊 Observe & Optimize         │
 ├───────────────────────────────┼───────────────────────────────┤
-│ 🤝 Share Knowledge            │ 📚 Never Stop Learning        │
+│ 🤝 Share Knowledge           │ 📚 Never Stop Learning        │
 └───────────────────────────────┴───────────────────────────────┘
 ```
 
