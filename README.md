@@ -43,18 +43,18 @@ I believe exceptional architecture begins with strong software engineering and c
 As a lifelong learner and active contributor to the technology community, I am passionate about technical leadership, mentoring engineers, sharing knowledge, and building secure platforms that empower innovation while meeting the highest standards of governance, compliance, and operational excellence.
 
 ---
-
 # 🛠 Technology Stack
 
 | Category | Technologies |
 |-----------|--------------|
 | ☁ Cloud | AWS • Azure • GCP • OpenStack |
+| 🖥 Operating Systems | RHEL • Fedora • CentOS • Ubuntu • Debian • Rocky Linux • AlmaLinux • Windows Server |
 | ☸ Containers | Kubernetes • OpenShift • Docker • Podman |
-| ⚙ DevOps | Terraform • Ansible • Jenkins • GitHub Actions • Azure DevOps • GitLab • Tarvis CI |
+| ⚙ DevOps | Terraform • Ansible • Jenkins • GitHub Actions • Azure DevOps • GitLab • Travis CI |
 | 💻 Programming | Python • Java • Go • TypeScript • Rust • C++ |
 | 🤖 AI | Amazon Bedrock • LangChain • ChromaDB • RAG |
 | 📊 Monitoring | Prometheus • Grafana • ELK • Splunk |
-| 🗄 Database | PostgreSQL • DynamoDB • MySQL • MSSQL • MongoDB |
+| 🗄 Database | PostgreSQL • DynamoDB • MySQL • Microsoft SQL Server • MongoDB |
 
 ---
 
