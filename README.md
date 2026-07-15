@@ -52,7 +52,7 @@ As a lifelong learner and active contributor to the technology community, I am p
 | ☸ Containers | Kubernetes • OpenShift • Docker • Podman |
 | ⚙ DevOps | Terraform • Ansible • Jenkins • GitHub Actions • Azure DevOps • GitLab • Travis CI |
 | 💻 Programming | Python • Java • Go • TypeScript • Rust • C++ |
-| 🤖 AI | Amazon Bedrock • LangChain • ChromaDB • RAG |
+| 🤖 AI | Amazon Bedrock • Amazon Sagemaker • LangChain • ChromaDB • RAG |
 | 📊 Monitoring | Prometheus • Grafana • ELK • Splunk |
 | 🗄 Database | PostgreSQL • DynamoDB • MySQL • Microsoft SQL Server • MongoDB |
 
