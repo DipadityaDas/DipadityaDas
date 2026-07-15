@@ -110,57 +110,6 @@ As a lifelong learner and active contributor to the technology community, I am p
 
 ---
 
-# 🌟 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-## ☁ Cloud Compliance Shield
-
-Enterprise cloud compliance platform
-for AWS, Azure and Google Cloud.
-
-</td>
-
-<td width="50%">
-
-## 🤖 AI Enterprise Assistant
-
-Enterprise AI Assistant powered by
-Amazon Bedrock and Vector Databases.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## ☸ Kubernetes Templates
-
-Production-ready Kubernetes
-deployment templates.
-
-</td>
-
-<td width="50%">
-
-## 🐧 ZSH Manager
-
-Cross-platform Linux automation
-toolkit.
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 🎯 2026 Goals
 
@@ -230,8 +179,3 @@ toolkit.
 
 ---
 
-
-
-> *Building reliable cloud platforms through automation, architecture, and intelligent engineering.*
-
----
