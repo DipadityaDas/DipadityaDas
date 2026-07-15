@@ -168,16 +168,32 @@ As a lifelong learner and active contributor to the technology community, I am p
 ---
 
 # 💡 Engineering Philosophy
-
-```text
-┌───────────────────────────────┬───────────────────────────────┐
-│ 🚀 Build for Scale           │ ⚙️ Automate Relentlessly      │
-├───────────────────────────────┼───────────────────────────────┤
-│ 🔒 Secure by Design          │ 📊 Observe & Optimize         │
-├───────────────────────────────┼───────────────────────────────┤
-│ 🤝 Share Knowledge           │ 📚 Never Stop Learning        │
-└───────────────────────────────┴───────────────────────────────┘
-```
+<table>
+<tr>
+<td align="left">
+🚀 Build for Scale
+</td>
+<td align="left">
+⚙️ Automate Relentlessly
+</td>
+</tr>
+<tr>
+<td align="left">
+🔒 Secure by Design
+</td>
+<td align="left">
+📊 Observe & Optimize
+</td>
+</tr>
+<tr>
+<td align="left">
+🤝 Share Knowledge
+</td>
+<td align="left">
+📚 Never Stop Learning
+</td>
+</tr>
+</table>
 
 ---
 
