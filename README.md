@@ -34,21 +34,13 @@ Curiosity drives code • Discipline drives architecture • Passion fuels every
 
 # 👨🏻‍💻 About Me
 
-## 🚀 Who Am I
-
-- ☁ Cloud Architect
-
-- ☸ Kubernetes Enthusiast
-
-- 🤖 AI Engineer
-
-- ⚙ Platform Engineer
-
-- 🔐 Cloud Security Engineer
-
-- 🏗 Infrastructure Automation Specialist
-
-- 🌱 Lifelong Learner
+Senior Cloud Solution and Security Architect with nearly a decade of hands-on experience spanning multi-cloud architecture, enterprise security engineering, DevSecOps, automation, and government-grade digital forensics. Proven expertise in designing, building, and governing secure, scalable, and compliant cloud platforms across AWS, Microsoft Azure, and Google Cloud Platform (GCP), with deep specialization in Identity and Access Management (IAM), Zero Trust architectures, encryption, key management, Kubernetes security, policy-as-code, and cloud governance.
+ 
+Throughout my career, I have architected enterprise-scale solutions that balance security, reliability, performance, and cost while enabling organizations to accelerate software delivery. My work spans cloud-native platforms, distributed systems, platform engineering, Infrastructure as Code (IaC), CI/CD automation, observability, and security-by-design, helping development teams build resilient applications at scale.
+ 
+I believe exceptional architecture begins with strong software engineering and computer science fundamentals. Beyond cloud technologies, I continuously deepen my expertise in software development, distributed systems, platform engineering, mathematics, and modern infrastructure, enabling me to design systems that are scalable, maintainable, and future-ready.
+ 
+As a lifelong learner and active contributor to the technology community, I am passionate about technical leadership, mentoring engineers, sharing knowledge, and building secure platforms that empower innovation while meeting the highest standards of governance, compliance, and operational excellence.
 
 ---
 
