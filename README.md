@@ -58,11 +58,11 @@ Curiosity drives code • Discipline drives architecture • Passion fuels every
 |-----------|--------------|
 | ☁ Cloud | AWS • Azure • GCP • OpenStack |
 | ☸ Containers | Kubernetes • OpenShift • Docker • Podman |
-| ⚙ DevOps | Terraform • Ansible • Jenkins • GitHub Actions |
-| 💻 Programming | Python • Java • Go • TypeScript • Node.js |
+| ⚙ DevOps | Terraform • Ansible • Jenkins • GitHub Actions • Azure DevOps • GitLab • Tarvis CI |
+| 💻 Programming | Python • Java • Go • TypeScript • Rust • C++ |
 | 🤖 AI | Amazon Bedrock • LangChain • ChromaDB • RAG |
-| 📊 Monitoring | Prometheus • Grafana • ELK |
-| 🗄 Database | PostgreSQL • DynamoDB • MySQL |
+| 📊 Monitoring | Prometheus • Grafana • ELK • Splunk |
+| 🗄 Database | PostgreSQL • DynamoDB • MySQL • MSSQL • MongoDB |
 
 ---
 
