@@ -58,59 +58,6 @@ As a lifelong learner and active contributor to the technology community, I am p
 
 ---
 
-# 🏆 Certifications
-
-<table>
-
-<tr>
-
-<td align="center">
-
-### 🎓 Red Hat
-
-✅ RHCA
-
-✅ RHCE
-
-✅ RHCSA
-
-✅ OpenShift
-
-✅ Ansible
-
-</td>
-
-<td align="center">
-
-### ☁ Cloud
-
-✅ AWS
-
-✅ Azure
-
-✅ Google Cloud
-
-✅ SAP
-
-</td>
-
-<td align="center">
-
-### 🌍 Community
-
-✅ AWS Community Builder
-
-✅ Google Cloud Facilitator
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-
 # 🎯 2026 Goals
 
 <table>
