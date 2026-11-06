@@ -34,14 +34,23 @@ Curiosity drives code • Discipline drives architecture • Passion fuels every
 
 # 👨🏻‍💻 About Me
 
-Senior Cloud Solution and Security Architect with nearly a decade of hands-on experience spanning multi-cloud architecture, enterprise security engineering, DevSecOps, automation, and government-grade digital forensics. Proven expertise in designing, building, and governing secure, scalable, and compliant cloud platforms across AWS, Microsoft Azure, and Google Cloud Platform (GCP), with deep specialization in Identity and Access Management (IAM), Zero Trust architectures, encryption, key management, Kubernetes security, policy-as-code, and cloud governance.
- 
-Throughout my career, I have architected enterprise-scale solutions that balance security, reliability, performance, and cost while enabling organizations to accelerate software delivery. My work spans cloud-native platforms, distributed systems, platform engineering, Infrastructure as Code (IaC), CI/CD automation, observability, and security-by-design, helping development teams build resilient applications at scale.
- 
-I believe exceptional architecture begins with strong software engineering and computer science fundamentals. Beyond cloud technologies, I continuously deepen my expertise in software development, distributed systems, platform engineering, mathematics, and modern infrastructure, enabling me to design systems that are scalable, maintainable, and future-ready.
- 
-As a lifelong learner and active contributor to the technology community, I am passionate about technical leadership, mentoring engineers, sharing knowledge, and building secure platforms that empower innovation while meeting the highest standards of governance, compliance, and operational excellence.
+I am a Cloud-Native & Platform Architect passionate about designing, engineering, and securing scalable, resilient, and intelligent technology platforms. My expertise spans Platform Engineering, Multi-Cloud Architecture, Kubernetes, Distributed Systems, Cloud Security, and Infrastructure Automation, with a strong focus on building and operating enterprise-grade systems at scale.
 
+With 5+ years of professional experience, I have worked across AWS, Microsoft Azure, Google Cloud Platform (GCP), OpenStack, Red Hat OpenShift, and Kubernetes ecosystems. My approach combines architectural thinking with hands-on engineering to transform complex infrastructure requirements into secure, reliable, and production-ready solutions.
+
+My technical interests encompass cloud-native architecture, distributed systems, platform engineering, microservices, Infrastructure as Code (Terraform and Ansible), CI/CD automation, GitOps, DevSecOps, observability, and reliability engineering. I specialize in security-by-design, Identity and Access Management (IAM), Zero Trust Architecture, Kubernetes security, policy-as-code, encryption, key management, and cloud governance.
+
+I believe exceptional architecture begins with strong Computer Science and Software Engineering fundamentals. Beyond infrastructure and cloud technologies, I continuously deepen my knowledge of software development, Python, Go, data structures and algorithms, system design, mathematics, and emerging computing paradigms. I enjoy solving complex engineering challenges, evaluating architectural trade-offs, and building systems that balance scalability, security, reliability, performance, and cost.
+
+As a Red Hat Certified Architect (RHCA) and multi-cloud certified professional, I am committed to continuous learning and advancing my expertise across cloud-native and open-source technologies. I am equally passionate about technical leadership, mentoring engineers, knowledge sharing, and contributing to the technology community.
+
+My long-term vision is to architect and engineer next-generation platforms that empower engineering teams, simplify infrastructure complexity, and enable organizations to innovate securely and confidently at scale.
+
+Build. Architect. Automate. Secure. Scale.
+
+Let's connect, exchange ideas, and build something extraordinary together.
+
+📩 DipadityaDasPro@gmail.com
 ---
 # 🛠 Technology Stack
 
