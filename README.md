@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Dipaditya Das</h1>
 
 <h3 align="center">
-Senior Cloud Architect • Platform Engineer • RHCA Level 6 • AI Engineer
+Principal Platform Architect • AI Engineer
 </h3>
 
 <h4 align="center">
